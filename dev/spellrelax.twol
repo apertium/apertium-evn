@@ -1,0 +1,44 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! The spellrelax.twol file is to implement things that should be analysed   !!
+!! but not generated and that are not strictly orthographic errors, but      !!
+!! more like alternative valid ways of spelling the same thing               !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Alphabet
+
+ а б в г д е ё ж з и й к л м н ӈ о п р с т у ф х һ ц ч ш щ ъ ы ь э ю я
+ А Б В Г Д Е Ё Ж З И Й К Л М Н Ӈ О П Р С Т У Ф Х Һ Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+
+      ̄:̄
+      ̄:̅
+      ̄:0
+   в:ф
+   и:ӣ
+   у:ӯ
+   у:y
+   ӈ:н
+   х:һ
+;
+
+Sets
+
+Vow = а е ё и о у ы э ю я 
+      А Е Ё И О У Ы Э Ю Я ;
+
+Rules
+
+! Here we should list all of the vowel letters that have a precomposed 
+! form in Unicode.
+
+"Lengthened vowels"
+Vx:Vy => _  : ; 
+   where Vx in (  и  у  а  о  е )
+         Vy in (  ӣ  ӯ  ā  ō  ē )
+   matched ;
+
+"нг to ӈ"
+0:г => ӈ:н _ ;
+
+!нуӈанӈин
+!нунганнгин
+!нунаннин
