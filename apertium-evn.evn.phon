@@ -1,0 +1,51 @@
+! Fixme
+Multichar_Symbols 
+
+%>
+
+LEXICON Root
+
+Chars ;
+
+LEXICON Loop
+
+      Chars ; 
+      # ;
+
+LEXICON Chars
+
+а:a Loop ;
+б:b Loop ;
+в:v Loop ;
+г:g Loop ;
+д:d Loop ;
+е:je Loop ;
+ё:jo Loop ;
+ж:ž Loop ;
+з:z Loop ;
+и:i Loop ;
+й:j Loop ;
+к:k Loop ;
+л:l Loop ;
+м:m Loop ;
+н:n Loop ;
+ӈ:ŋ Loop ;
+о:o Loop ;
+п:p Loop ;
+р:r Loop ;
+с:s Loop ;
+т:t Loop ;
+у:u Loop ;
+ф:f Loop ;
+х:x Loop ;
+һ:h Loop ;
+ц:ts Loop ;
+ч:č Loop ;
+ш:š Loop ;
+щ:š Loop ;
+ъ: Loop ;
+ы:ı Loop ;
+ь: Loop ;
+э:e Loop ;
+ю:ju Loop ;
+я:ja Loop ;
