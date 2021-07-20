@@ -1,0 +1,52 @@
+[6R7UFWpJSKVu#0] ^хулукундук/хулукӯн<n><sg><abl>/хулукӯн<adj><sg><abl>/хулун<n>\<eval-kun\><sg><abl>$
+[/6R7UFWpJSKVu]
+[AIufHQkSdz6P#0] ^хулукур/хулукӯн<n><pl><nom>/хулукӯн<adj><pl><nom>/хулун<n>\<eval-kun\><pl><nom>$
+[/AIufHQkSdz6P]
+[CI747M6fTwIS#0] ^хулукундули/хулукӯн<n><sg><prl>/хулукӯн<adj><sg><prl>/хулун<n>\<eval-kun\><sg><prl>$
+[/CI747M6fTwIS]
+[EDw2DnaPKYV1#0] ^хулукундулэ/хулукӯн<n><sg><locall>/хулукӯн<adj><sg><locall>/хулун<n>\<eval-kun\><sg><locall>$
+[/EDw2DnaPKYV1]
+[Ew0DUiBCKoVa#0] ^хулукурвэ/хулукӯн<n><pl><acc><def>/хулукӯн<adj><pl><acc><def>/хулун<n>\<eval-kun\><pl><acc><def>$
+[/Ew0DUiBCKoVa]
+[F7xSLd6rrXun#0] ^хулукунӈит/хулукӯн<n><sg><ela>/хулукӯн<adj><sg><ela>/хулун<n>\<eval-kun\><sg><ela>/хулукӯн<n><indposs><sg><nom><px1pi>/хулун<n>\<eval-kun\><indposs><sg><nom><px1pi>/хулукӯн<n><sg><nom>\<poss\><px1pi>/хулукӯн<adj><sg><nom>\<poss\><px1pi>/хулун<n>\<eval-kun\><sg><nom>\<poss\><px1pi>$
+[/F7xSLd6rrXun]
+[GYq2M3nZmmX4#0] ^хулукургит/хулукӯн<n><pl><ela>/хулукӯн<adj><pl><ela>/хулун<n>\<eval-kun\><pl><ela>$
+[/GYq2M3nZmmX4]
+[KbqPrgkLNEMR#0] ^хулукуриклэ/хулукӯн<n><pl><locdir>/хулукӯн<adj><pl><locdir>/хулун<n>\<eval-kun\><pl><locdir>$
+[/KbqPrgkLNEMR]
+[KuKjNsN-nALv#0] ^хулукурикли/хулукӯн<n><pl><allprl>/хулукӯн<adj><pl><allprl>/хулун<n>\<eval-kun\><pl><allprl>$
+[/KuKjNsN-nALv]
+[N60tW7Lk3x-m#0] ^хулукунду/хулукӯн<n><sg><datloc>/хулукӯн<adj><sg><datloc>/хулун<n>\<eval-kun\><sg><datloc>$
+[/N60tW7Lk3x-m]
+[QjfyGzppLs20#0] ^хулукунтыки/хулукӯн<n><sg><all>/хулукӯн<adj><sg><all>/хулун<n>\<eval-kun\><sg><all>$
+[/QjfyGzppLs20]
+[RxkiYp6Iq5Lt#0] ^хулукурди/хулукӯн<n><pl><ins>/хулукӯн<adj><pl><ins>/хулун<n>\<eval-kun\><pl><ins>$
+[/RxkiYp6Iq5Lt]
+[SmPumGVGhaun#0] ^хулукуникли/хулукӯн<n><sg><allprl>/хулукӯн<adj><sg><allprl>/хулун<n>\<eval-kun\><sg><allprl>$
+[/SmPumGVGhaun]
+[UQlivoSsUuue#0] ^хулукуниклэ/хулукӯн<n><sg><locdir>/хулукӯн<adj><sg><locdir>/хулун<n>\<eval-kun\><sg><locdir>$
+[/UQlivoSsUuue]
+[X-j7SqjQF12K#0] ^хулукурэ/хулукӯн<n><pl><acc><ind>/хулукӯн<adj><pl><acc><ind>/хулун<n>\<eval-kun\><pl><acc><ind>$
+[/X-j7SqjQF12K]
+[XhONCprSGqSf#0] ^хулукунди/хулукӯн<n><sg><ins>/хулукӯн<adj><sg><ins>/хулун<n>\<eval-kun\><sg><ins>/хулукӯн<adj>\<advz-t\>$
+[/XhONCprSGqSf]
+[ZylxMXuAv8pT#0] ^хулукурдули/хулукӯн<n><pl><prl>/хулукӯн<adj><pl><prl>/хулун<n>\<eval-kun\><pl><prl>$
+[/ZylxMXuAv8pT]
+[_dfsKlIH06Zj#0] ^хулукуртыки/хулукӯн<n><pl><all>/хулукӯн<adj><pl><all>/хулун<n>\<eval-kun\><pl><all>$
+[/_dfsKlIH06Zj]
+[bqxIPIrh3yhR#0] ^хулукунэ/хулу<v>\<ev4\><p-neg>/хулукӯн<n><sg><acc><ind>/хулукӯн<adj><sg><acc><ind>/хулун<n>\<eval-kun\><sg><acc><ind>/хулу<v>\<ev4\><nfut><p3><pl>$
+[/bqxIPIrh3yhR]
+[bx8eYYOoCdnj#0] ^хулукурнун/хулукӯн<n><pl><com-nun>/хулукӯн<adj><pl><com-nun>/хулун<n>\<eval-kun\><pl><com-nun>$
+[/bx8eYYOoCdnj]
+[h-lySPa7pu-V#0] ^хулукуннун/хулукӯн<n><sg><com-nun>/хулукӯн<n><sg><nom><px2pl>/хулукӯн<adj><sg><com-nun>/хулукӯн<adj><sg><nom><px2pl>/хулун<n>\<eval-kun\><sg><com-nun>/хулун<n>\<eval-kun\><sg><nom><px2pl>$
+[/h-lySPa7pu-V]
+[mTUiNeVrt6L2#0] ^хулукурдулэ/хулукӯн<n><pl><locall>/хулукӯн<adj><pl><locall>/хулун<n>\<eval-kun\><pl><locall>$
+[/mTUiNeVrt6L2]
+[qSZDj2-Gc2W5#0] ^хулукун/хулукӯн<n><sg><nom>/хулукӯн<adj><sg><nom>/хулун<n>\<eval-kun\><sg><nom>$
+[/qSZDj2-Gc2W5]
+[vaKHQXfLm6o9#0] ^хулукунмэ/хулукӯн<n><sg><acc><def>/хулукӯн<adj><sg><acc><def>/хулун<n>\<eval-kun\><sg><acc><def>$
+[/vaKHQXfLm6o9]
+[wRZ7cwwt_7bH#0] ^хулукурду/хулукӯн<n><pl><datloc>/хулукӯн<adj><pl><datloc>/хулун<n>\<eval-kun\><pl><datloc>$
+[/wRZ7cwwt_7bH]
+[ycD9xeYhvCYo#0] ^хулукурдук/хулукӯн<n><pl><abl>/хулукӯн<adj><pl><abl>/хулун<n>\<eval-kun\><pl><abl>$
+[/ycD9xeYhvCYo]

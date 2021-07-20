@@ -1,0 +1,966 @@
+[-Cbv1vAaO_9W#0] ^оронӈидис/орон<n><sg><ela><px2sg>/орон<n><indposs><sg><ins><px2sg>/оронӈи<adj><sg><ins><px2sg>$
+[/-Cbv1vAaO_9W]
+[-E7T0tuX-ivE#0] ^мо̄ликла/мо̄<n><pl><locdir>$
+[/-E7T0tuX-ivE]
+[-MLHDbA-ZzMc#0] ^дюявун/дю<n><sg><acc><ind><px1pe>/дю̄<n><sg><acc><ind><px1pe>/дюя<n><sg><nom><px1pe>$
+[/-MLHDbA-ZzMc]
+[-PTbb5Aq-CSP#0] ^орондун/орон<n><sg><datloc><px3sg>$
+[/-PTbb5Aq-CSP]
+[-QvFLJ4x3hAl#0] ^дюдуквар/дю<n><sg><abl><ref-pl>/дю̄<n><sg><abl><ref-pl>$
+[/-QvFLJ4x3hAl]
+[-U38CcjpgM0F#0] ^ӈинакиникла/ӈинакин<n><sg><locdir>$
+[/-U38CcjpgM0F]
+[-_wB40W_Rzus#0] ^куримит/курим<n><sg><ins>/курим<n><sg><nom><px1pi>/кури<n>\<eval-mi\><sg><ins>/кури<n>\<eval-mi\><sg><nom><px1pi>$
+[/-_wB40W_Rzus]
+[-mTJ2NGUGQlx#0] ^каланты/калан<n><sg><nom><px1pi>$
+[/-mTJ2NGUGQlx]
+[-tO-JrxKkNzU#0] ^дюлвун/дю<n><pl><nom><px1pe>/дю̄<n><pl><nom><px1pe>$
+[/-tO-JrxKkNzU]
+[00Crpev4Ag7W#0] ^голодук/голо<n><sg><abl>$
+[/00Crpev4Ag7W]
+[08NrLtLrku9s#0] ^орониклатын/орон<n><sg><locdir><px3pl>/оро<n><indposs><sg><locdir><px3pl>$
+[/08NrLtLrku9s]
+[0DRhCBc3qMlb#0] ^гагикли/гаг<n><sg><allprl>/га̄г<n><sg><allprl>$
+[/0DRhCBc3qMlb]
+[0X8jEOvCKG3B#0] ^ӈинакирдула/ӈинакин<n><pl><locall>$
+[/0X8jEOvCKG3B]
+[0gSZTydRpD3W#0] ^орониклави/орон<n><sg><locdir><ref-sg>/оро<n><indposs><sg><locdir><ref-sg>$
+[/0gSZTydRpD3W]
+[0rTrp8s7URic#0] ^дюдис/дю<n><sg><ins><px2sg>/дю̄<n><sg><ins><px2sg>$
+[/0rTrp8s7URic]
+[0sLSetPiIY5a#0] ^дюнунмар/дю<n><sg><com-nun><ref-pl>/дю̄<n><sg><com-nun><ref-pl>$
+[/0sLSetPiIY5a]
+[1FRpHf4jkpBs#0] ^дюткин/дю<v><dstr><imp><prox><p3><sg>/дю<v><dur><imp><prox><p3><sg>/дю<n><sg><all><px3sg>/дю̄<n><sg><all><px3sg>$
+[/1FRpHf4jkpBs]
+[1HnM_EI7oQgq#0] ^гагду/гаг<n><sg><datloc>/га̄г<n><sg><datloc>$
+[/1HnM_EI7oQgq]
+[1OXzMM22bjpj#0] ^дюклави/дю<n><sg><locdir><ref-sg>/дю̄<n><sg><locdir><ref-sg>$
+[/1OXzMM22bjpj]
+[1bv_dEvfnWkH#0] ^бурвэ/бун<n><pl><acc><def>/бур<n><sg><acc><def>$
+[/1bv_dEvfnWkH]
+[1cYXNaJFtOmg#0] ^орорви/орон<n><pl><nom><px1sg>/орон<n><pl><nom><ref-sg>/орон<n><pl><acc><def><ref-sg>$
+[/1cYXNaJFtOmg]
+[1j9QO0lXIsm9#0] ^ӈинакирикла/ӈинакин<n><pl><locdir>$
+[/1j9QO0lXIsm9]
+[20dTPgszfrls#0] ^бурит/бур<n><sg><ins>/бур<n><sg><nom><px1pi>/бу<v><p-sim><sg><ins>/бӯ<v><p-sim><sg><ins>/бу<v><p-sim><sg><nom><px1pi>/бӯ<v><p-sim><sg><nom><px1pi>$
+[/20dTPgszfrls]
+[2BmT00rKd-Aa#0] ^орондуквун/орон<n><sg><abl><px1pe>$
+[/2BmT00rKd-Aa]
+[2Bnmqj_RCQXs#0] ^орорты/орон<n><pl><nom><px1pi>$
+[/2Bnmqj_RCQXs]
+[2FC5Nqfx0W6M#0] ^мо̄ду/мо̄<n><sg><datloc>/мо̄дӯ<n><sg><nom>$
+[/2FC5Nqfx0W6M]
+[2MGbxubnWXke#0] ^орондулин/орон<n><sg><prl><px3sg>$
+[/2MGbxubnWXke]
+[2TZ8URVQ6iNL#0] ^орондисун/орон<n><sg><ins><px2pl>$
+[/2TZ8URVQ6iNL]
+[2ZP4iy085rBg#0] ^оронтыкис/орон<n><sg><all><px2sg>$
+[/2ZP4iy085rBg]
+[2bzjEyTnn999#0] ^оронмос/орон<n><sg><acc><def><px2sg>$
+[/2bzjEyTnn999]
+[2cXTh8GnlA_f#0] ^орондув/орон<n><sg><datloc><px1sg>$
+[/2cXTh8GnlA_f]
+[2vHdoycsHdMJ#0] ^ӈинакирдули/ӈинакин<n><pl><prl>$
+[/2vHdoycsHdMJ]
+[2xRAmSUyDo32#0] ^оронтыкивар/орон<n><sg><all><ref-pl>$
+[/2xRAmSUyDo32]
+[3VVGYPiIvq4i#0] ^голот/голо<n><sg><ins>/голо<n><sg><nom><px1pi>$
+[/3VVGYPiIvq4i]
+[3aqzEI2pM4f6#0] ^гусвэ/*гусвэ$
+[/3aqzEI2pM4f6]
+[3kCw34p8KfEc#0] ^яӈдули/яӈ<n><sg><prl>$
+[/3kCw34p8KfEc]
+[3n0CZdZAZ3Eg#0] ^орониклан/орон<n><sg><locdir><px3sg>/оро<n><indposs><sg><locdir><px3sg>$
+[/3n0CZdZAZ3Eg]
+[3pM1xlIn3Dkk#0] ^орондулатын/орон<n><sg><locall><px3pl>$
+[/3pM1xlIn3Dkk]
+[3q305rkPRvYC#0] ^гаг/гаг<n><sg><nom>/га̄г<n><sg><nom>$
+[/3q305rkPRvYC]
+[46XnKCBh81x7#0] ^гарат/гара<n><sg><ins>/гара<n><sg><nom><px1pi>$
+[/46XnKCBh81x7]
+[4G3ZccqG_gWQ#0] ^дюяв/дю<n><sg><acc><ind><px1sg>/дю̄<n><sg><acc><ind><px1sg>/дюя<n><sg><nom><px1sg>$
+[/4G3ZccqG_gWQ]
+[4Kpb_R6I_qrv#0] ^ӈинакинӈит/ӈинакин<n><sg><ela>/ӈинакинӈи<adj><sg><ins>/ӈинакин<n><indposs><sg><nom><px1pi>/ӈинакинӈи<adj><sg><nom><px1pi>/ӈинакин<n><sg><nom>\<poss\><px1pi>/ӈинакинӈи<adj>\<advz-t\>$
+[/4Kpb_R6I_qrv]
+[4MMXYYbKkYpn#0] ^дюдукин/дю<n><sg><abl><px3sg>/дю̄<n><sg><abl><px3sg>$
+[/4MMXYYbKkYpn]
+[4WKXRuRqJSVX#0] ^дютын/дю<n><sg><nom><px3pl>/дю̄<n><sg><nom><px3pl>$
+[/4WKXRuRqJSVX]
+[4jqFop4m5stt#0] ^дюлты/дю<n><pl><nom><px1pi>/дю̄<n><pl><nom><px1pi>$
+[/4jqFop4m5stt]
+[4o7sRRsobLqm#0] ^дюдуви/дю<n><sg><datloc><ref-sg>/дю̄<n><sg><datloc><ref-sg>$
+[/4o7sRRsobLqm]
+[4oGvR0iowUpn#0] ^дют/дю<n><sg><ins>/дю̄<n><sg><ins>/дю<n><sg><nom><px1pi>/дю̄<n><sg><nom><px1pi>$
+[/4oGvR0iowUpn]
+[4utsl8R_RMH-#0] ^адылъя/адыл<n><sg><acc><ind>$
+[/4utsl8R_RMH-]
+[4x8IuE5GJUuP#0] ^дэт/дэт<n><sg><nom>$
+[/4x8IuE5GJUuP]
+[538SC_Z0A0wG#0] ^орондивун/орон<n><sg><ins><px1pe>$
+[/538SC_Z0A0wG]
+[56PjNMBK1QR1#0] ^оронӈитви/орон<n><sg><ela><ref-sg>/орон<n><indposs><sg><ins><ref-sg>/оронӈи<adj><sg><ins><ref-sg>$
+[/56PjNMBK1QR1]
+[5H8GuigHeUZX#0] ^гагит/гаг<n><sg><ins>/га̄г<n><sg><ins>/гаг<n><sg><nom><px1pi>/га̄г<n><sg><nom><px1pi>$
+[/5H8GuigHeUZX]
+[5J5_cz1gmCjE#0] ^орондукитын/*орондукитын$
+[/5J5_cz1gmCjE]
+[5NCbm22BsNuV#0] ^яӈит/яӈ<n><sg><ins>/яӈ<n><sg><nom><px1pi>/яӈи<n><sg><ins>/яӈи<n><sg><nom><px1pi>$
+[/5NCbm22BsNuV]
+[5QuOsjHtAY0A#0] ^голотки/голо<n><sg><all>$
+[/5QuOsjHtAY0A]
+[5Z2Stc_chTol#0] ^мо̄лва/мо̄<n><pl><acc><def>$
+[/5Z2Stc_chTol]
+[5jdBSNDmSl4C#0] ^дюдуктын/дю<n><sg><abl><px3pl>/дю̄<n><sg><abl><px3pl>$
+[/5jdBSNDmSl4C]
+[5legwgizPoyo#0] ^оронӈидитын/орон<n><sg><ela><px3pl>/орон<n><indposs><sg><ins><px3pl>/оронӈи<adj><sg><ins><px3pl>$
+[/5legwgizPoyo]
+[6AdMLACTRg67#0] ^орондулавэр/*орондулавэр$
+[/6AdMLACTRg67]
+[6N-CvgV0d2LH#0] ^мо̄лду/мо̄<n><pl><datloc>$
+[/6N-CvgV0d2LH]
+[6XpUjMoMeWe-#0] ^ӈинакиндук/ӈинакин<n><sg><abl>$
+[/6XpUjMoMeWe-]
+[6cK1jURakoLt#0] ^дюлав/дю<n><pl><acc><ind><px1sg>/дю̄<n><pl><acc><ind><px1sg>/дю<n><sg><locall><px1sg>$
+[/6cK1jURakoLt]
+[6d77aq6GO0sN#0] ^оронни/оро<v><nfut><p2><sg>/орон<n><sg><nom><px2sg>/оронӈи<adj><sg><nom>/орон<n><sg><nom>\<poss\>$
+[/6d77aq6GO0sN]
+[6g8DvrctlKKS#0] ^дюдун/дю<n><sg><datloc><px3sg>/дю̄<n><sg><datloc><px3sg>$
+[/6g8DvrctlKKS]
+[6kvQenWlSeV5#0] ^илэт/и<n><pl><acc><ind><px1pi>/и<n><sg><locall><px1pi>/илэ<n><sg><ins>/илэ<n><sg><nom><px1pi>$
+[/6kvQenWlSeV5]
+[6lEIaQMRt2MO#0] ^дюлитын/дю<n><sg><prl><px3pl>$
+[/6lEIaQMRt2MO]
+[6mBMnMzDPPHd#0] ^оронты/орон<n><sg><nom><px1pi>$
+[/6mBMnMzDPPHd]
+[706G-UaQtMT6#0] ^дюгидитын/дю<n><sg><ela><px3pl>/дю̄<n><sg><ela><px3pl>/дюгӣ<n><sg><ins><px3pl>$
+[/706G-UaQtMT6]
+[794x557EUDb2#0] ^умукнун/умук<n><sg><com-nun>$
+[/794x557EUDb2]
+[7E4AYt2WnTl5#0] ^дэтъе/дэт<n><sg><acc><ind>$
+[/7E4AYt2WnTl5]
+[7JSNkqsxd-c6#0] ^дюлисун/дю<n><sg><prl><px2pl>$
+[/7JSNkqsxd-c6]
+[7QTucLrnnfPk#0] ^дюлтын/дю<n><pl><nom><px3pl>/дю̄<n><pl><nom><px3pl>$
+[/7QTucLrnnfPk]
+[7SGNEqayDbnA#0] ^дюгитви/дю<n><sg><ela><ref-sg>/дю̄<n><sg><ela><ref-sg>/дюгӣ<n><sg><ins><ref-sg>$
+[/7SGNEqayDbnA]
+[7TTc5j7tuwxk#0] ^бурнун/бун<n><pl><com-nun>/бур<n><sg><com-nun>$
+[/7TTc5j7tuwxk]
+[7uO-485Kps51#0] ^илэе/илэ<n><sg><acc><ind>$
+[/7uO-485Kps51]
+[8-BWm_DfhtYg#0] ^гусъе/*гусъе$
+[/8-BWm_DfhtYg]
+[8Ll8aa29mxO7#0] ^дэтыклэ/дэт<n><sg><locdir>$
+[/8Ll8aa29mxO7]
+[8MdiWWuGIgN5#0] ^ӈинакирва/ӈинакин<n><pl><acc><def>$
+[/8MdiWWuGIgN5]
+[8Q5tdUt1xZ2N#0] ^дюдув/дю<n><sg><datloc><px1sg>/дю̄<n><sg><datloc><px1sg>$
+[/8Q5tdUt1xZ2N]
+[8RSzZodrT9i7#0] ^бэрив/бэр<n><sg><nom><px1sg>/бэ̄<v><p-sim><sg><nom><px1sg>$
+[/8RSzZodrT9i7]
+[8WdlQdrvHzAb#0] ^орониклат/орон<n><sg><locdir><px1pi>/оро<n><indposs><sg><locdir><px1pi>$
+[/8WdlQdrvHzAb]
+[8cyDgE4bImzI#0] ^орондусун/орон<n><sg><datloc><px2pl>$
+[/8cyDgE4bImzI]
+[8pDvVJ8ilPhj#0] ^оронови/орон<n><sg><acc><ind><ref-sg>/оро<v><p-pf><sg><nom><ref-sg>/оро<v><p-pf><sg><acc><def><ref-sg>$
+[/8pDvVJ8ilPhj]
+[9AHjIx26sVQs#0] ^мо̄дук/мо̄<n><sg><abl>$
+[/9AHjIx26sVQs]
+[9Md7L_JmL9qh#0] ^оронӈитвар/орон<n><sg><ela><ref-pl>/орон<n><indposs><sg><ins><ref-pl>/оронӈи<adj><sg><ins><ref-pl>$
+[/9Md7L_JmL9qh]
+[9TAIjXofu2AW#0] ^орортын/орон<n><pl><nom><px3pl>$
+[/9TAIjXofu2AW]
+[9U3DAj99HiJ0#0] ^дюткит/дю<n><sg><all><px1pi>/дю̄<n><sg><all><px1pi>$
+[/9U3DAj99HiJ0]
+[9dZSJ5iGXbM_#0] ^хутэлтын/хутэ<n><pl><nom><px3pl>/хутэл<n><sg><nom><px3pl>$
+[/9dZSJ5iGXbM_]
+[9sofchV7WMM1#0] ^ӈинакинтыки/ӈинакин<n><sg><all>$
+[/9sofchV7WMM1]
+[9zMWUVlL-mHt#0] ^орондуласун/орон<n><sg><locall><px2pl>$
+[/9zMWUVlL-mHt]
+[A6TOQqP5aVQX#0] ^дюдисун/дю<n><sg><ins><px2pl>/дю̄<n><sg><ins><px2pl>$
+[/A6TOQqP5aVQX]
+[AAqZ_16CLhJC#0] ^орондулавун/орон<n><sg><locall><px1pe>$
+[/AAqZ_16CLhJC]
+[ABcMm3xxmIMh#0] ^адылдула/адыл<n><sg><locall>$
+[/ABcMm3xxmIMh]
+[AF1gXpsl2VNZ#0] ^гаратки/гара<n><sg><all>$
+[/AF1gXpsl2VNZ]
+[AJfiXjlCSlKP#0] ^гарава/гара<n><sg><acc><def>$
+[/AJfiXjlCSlKP]
+[AbBdFzKaxl4u#0] ^гарала/гара<n><pl><acc><ind>/гара<n><sg><locall>$
+[/AbBdFzKaxl4u]
+[B0pqhEj9RPjM#0] ^гусит/гус<n><sg><ins>/гусь<n><sg><ins>/гус<n><sg><nom><px1pi>/гусь<n><sg><nom><px1pi>$
+[/B0pqhEj9RPjM]
+[BCILb57J7TCz#0] ^илэклэ/илэ<n><sg><locdir>$
+[/BCILb57J7TCz]
+[BqVNumoOoYIl#0] ^ӈинакирдук/ӈинакин<n><pl><abl>$
+[/BqVNumoOoYIl]
+[BtPZpzi2BesM#0] ^илэду/илэ<n><sg><datloc>$
+[/BtPZpzi2BesM]
+[ByuGcm4TekHm#0] ^яӈду/яӈ<n><sg><datloc>$
+[/ByuGcm4TekHm]
+[C-L2tTylouP5#0] ^дюткиви/дю<n><sg><all><ref-sg>/дю̄<n><sg><all><ref-sg>$
+[/C-L2tTylouP5]
+[C16QkWNwS3fk#0] ^гагиклэ/гаг<n><sg><locdir>$
+[/C16QkWNwS3fk]
+[C22bau8Abczy#0] ^орониклис/орон<n><sg><allprl><px2sg>/оро<n><indposs><sg><allprl><px2sg>$
+[/C22bau8Abczy]
+[C4OPFBK4IuTH#0] ^дюклин/дю<n><sg><allprl><px3sg>/дю̄<n><sg><allprl><px3sg>$
+[/C4OPFBK4IuTH]
+[C9Ki_7jeYwV0#0] ^хутэлли/хутэ<n><pl><nom><px2sg>$
+[/C9Ki_7jeYwV0]
+[CA5wVhm667E7#0] ^дюятын/дю<n><sg><acc><ind><px3pl>/дю̄<n><sg><acc><ind><px3pl>/дюя<n><sg><nom><px3pl>$
+[/CA5wVhm667E7]
+[CEOyYgMgQlaX#0] ^адыликла/адыл<n><sg><locdir>$
+[/CEOyYgMgQlaX]
+[CaL4m_OOxoac#0] ^густули/гус<n><sg><prl>$
+[/CaL4m_OOxoac]
+[Cak9wBvgLSD5#0] ^дюгидин/дю<n><sg><ela><px3sg>/дю̄<n><sg><ela><px3sg>/дюгӣ<n><sg><ins><px3sg>$
+[/Cak9wBvgLSD5]
+[Cc8XnsR6R6Bw#0] ^гарадук/гара<n><sg><abl>$
+[/Cc8XnsR6R6Bw]
+[CireLkJ9Z90-#0] ^каланмун/калан<n><sg><nom><px1pe>$
+[/CireLkJ9Z90-]
+[CjTSlW2ON5Bw#0] ^дюлавар/дю<n><pl><acc><ind><ref-pl>/дю̄<n><pl><acc><ind><ref-pl>/дю<n><sg><locall><ref-pl>$
+[/CjTSlW2ON5Bw]
+[D-2MuViFdie_#0] ^оронтыкин/орон<n><sg><all><px3sg>$
+[/D-2MuViFdie_]
+[D0zTjd-lKIQi#0] ^гаракла/гара<n><sg><locdir>$
+[/D0zTjd-lKIQi]
+[D2PIUXtEpYTB#0] ^дюгидивун/дю<n><sg><ela><px1pe>/дю̄<n><sg><ela><px1pe>/дюгӣ<n><sg><ins><px1pe>$
+[/D2PIUXtEpYTB]
+[DKC6eoG2MTGo#0] ^авунми/авун<n><sg><nom><px1sg>/авун<n><sg><nom><ref-sg>/авуӈ<v><inf>/авун<n><sg><acc><def><ref-sg>/авуӈ<v>\<conv-cond-ss\><sg>$
+[/DKC6eoG2MTGo]
+[DMYiJzyfyoLp#0] ^ороникливи/орон<n><sg><allprl><ref-sg>/оро<n><indposs><sg><allprl><ref-sg>$
+[/DMYiJzyfyoLp]
+[DP3Zs3E5crgV#0] ^ороррун/орон<n><pl><nom><px2pl>$
+[/DP3Zs3E5crgV]
+[DQNTz8yBTc4v#0] ^орондукин/орон<n><sg><abl><px3sg>$
+[/DQNTz8yBTc4v]
+[DX0bzqkXGdMZ#0] ^илэвэ/илэ<n><sg><acc><def>$
+[/DX0bzqkXGdMZ]
+[DXK1lPz308ky#0] ^умукъя/*умукъя$
+[/DXK1lPz308ky]
+[DxNy3zUWARCa#0] ^дюкласун/дю<n><sg><locdir><px2pl>/дю̄<n><sg><locdir><px2pl>$
+[/DxNy3zUWARCa]
+[EGhlEh-fMq6l#0] ^орондулат/орон<n><sg><locall><px1pi>$
+[/EGhlEh-fMq6l]
+[EGpGCogtT-XR#0] ^дюват/дю<n><sg><acc><def><px1pi>/дю̄<n><sg><acc><def><px1pi>/дюва<n><sg><ins>/дюва<n><sg><nom><px1pi>$
+[/EGpGCogtT-XR]
+[ESTWISUBcoeG#0] ^орондукит/орон<n><sg><abl><px1pi>$
+[/ESTWISUBcoeG]
+[Ea4aPkxaaHb9#0] ^яӈикла/яӈ<n><sg><locdir>/яӈи<n><sg><locdir>$
+[/Ea4aPkxaaHb9]
+[Ecri8VhbsNtU#0] ^голоё/голо<n><sg><acc><ind>$
+[/Ecri8VhbsNtU]
+[EdU_PqeXCYoo#0] ^гусикли/гус<n><sg><allprl>/гусь<n><sg><allprl>$
+[/EdU_PqeXCYoo]
+[Eid3YJzsmaQh#0] ^хутэлвун/хутэ<n><pl><nom><px1pe>/хутэл<n><sg><nom><px1pe>$
+[/Eid3YJzsmaQh]
+[EiwgrF6fPgTf#0] ^дюгидисун/дю<n><sg><ela><px2pl>/дю̄<n><sg><ela><px2pl>/дюгӣ<n><sg><ins><px2pl>$
+[/EiwgrF6fPgTf]
+[F1a2uBLNHhG2#0] ^гус/гу<v><nfut><p2><pl>/гус<n><sg><nom>$
+[/F1a2uBLNHhG2]
+[FEpKYx4-Aur9#0] ^дюливи/дю<n><sg><prl><ref-sg>$
+[/FEpKYx4-Aur9]
+[FX-epJ-SyqlA#0] ^илэ/и<n><pl><acc><ind>/илэ<ij>/илэ<adv>/ӣлэ<adv>/и<n><sg><locall>/илэ̄<adv>/ӣлэ̄<adv>/илэ<n><sg><nom>/ӣлэ̄<adv><itg>/ӣдук<adv><itg>/ӣргит<adv><itg>/ӣртыки<adv><itg>$
+[/FX-epJ-SyqlA]
+[G55FPCseTdM0#0] ^адылит/адыл<n><sg><ins>/адыл<n><sg><nom><px1pi>/ады̄<prn><itg><prl><px1pi>$
+[/G55FPCseTdM0]
+[G8TG9--fQBDt#0] ^мо̄кла/мо̄<n><sg><locdir>$
+[/G8TG9--fQBDt]
+[GBDuOBQxjQFc#0] ^гарали/гара<n><sg><prl>$
+[/GBDuOBQxjQFc]
+[GJNhqYBTFLPC#0] ^мурирви/мурин<n><pl><nom><px1sg>/мурин<n><pl><nom><ref-sg>/мурин<n><pl><acc><def><ref-sg>$
+[/GJNhqYBTFLPC]
+[GPN0Iet7JkTF#0] ^адыликли/адыл<n><sg><allprl>$
+[/GPN0Iet7JkTF]
+[Gb-oYqx0ki9q#0] ^бэртын/бэр<n><sg><nom><px3pl>$
+[/Gb-oYqx0ki9q]
+[GbJj-wbiW5oM#0] ^оронӈидив/орон<n><sg><ela><px1sg>/орон<n><indposs><sg><ins><px1sg>/оронӈи<adj><sg><ins><px1sg>$
+[/GbJj-wbiW5oM]
+[Gws3N2Be4bpZ#0] ^орондулас/орон<n><sg><locall><px2sg>$
+[/Gws3N2Be4bpZ]
+[Gyo4KPucvLjn#0] ^дюткитын/дю<n><sg><all><px3pl>/дю̄<n><sg><all><px3pl>$
+[/Gyo4KPucvLjn]
+[HGqVbr25Hikr#0] ^ороннунни/орон<n><sg><com-nun><px2sg>/оро<n><indposs><sg><com-nun><px2sg>/орон<n><sg><com-nun>\<poss\>$
+[/HGqVbr25Hikr]
+[HYIBtULbFeQQ#0] ^орондус/орон<n><sg><datloc><px2sg>$
+[/HYIBtULbFeQQ]
+[HlODlZdmKtCm#0] ^адылдули/адыл<n><sg><prl>$
+[/HlODlZdmKtCm]
+[HpnCBlM_sDX-#0] ^хутэн/хутэ<n><sg><nom><px3sg>$
+[/HpnCBlM_sDX-]
+[Hu0DMkytOfZr#0] ^хутэлты/хутэ<n><pl><nom><px1pi>$
+[/Hu0DMkytOfZr]
+[HyC0cnhJHg96#0] ^куримикла/курим<n><sg><locdir>$
+[/HyC0cnhJHg96]
+[I15jzXINV3SB#0] ^оронтыкит/орон<n><sg><all><px1pi>$
+[/I15jzXINV3SB]
+[I8yyLDToa2Ru#0] ^дюдувун/дю<n><sg><datloc><px1pe>/дю̄<n><sg><datloc><px1pe>$
+[/I8yyLDToa2Ru]
+[II5LwOkQZNfj#0] ^каланнун/калан<n><sg><com-nun>/калан<n><sg><nom><px2pl>$
+[/II5LwOkQZNfj]
+[IKHccHtnwbGW#0] ^мо̄нун/мо̄<n><sg><com-nun>$
+[/IKHccHtnwbGW]
+[Ia7LuZaMLJtu#0] ^густук/гус<n><sg><abl>$
+[/Ia7LuZaMLJtu]
+[InVLrQSpj1ZK#0] ^дэтнун/дэт<n><sg><com-nun>$
+[/InVLrQSpj1ZK]
+[Iy3Znm2qULCY#0] ^дюдуквун/дю<n><sg><abl><px1pe>/дю̄<n><sg><abl><px1pe>$
+[/Iy3Znm2qULCY]
+[J8X1B4AvTxfw#0] ^оронӈидит/орон<n><sg><ela><px1pi>/орон<n><indposs><sg><ins><px1pi>/оронӈи<adj><sg><ins><px1pi>$
+[/J8X1B4AvTxfw]
+[JGLr5XKiICFg#0] ^орондуливун/орон<n><sg><prl><px1pe>$
+[/JGLr5XKiICFg]
+[JItY7rueDK8G#0] ^дюдив/дю<n><sg><ins><px1sg>/дю̄<n><sg><ins><px1sg>$
+[/JItY7rueDK8G]
+[JTGPLIaLuEo2#0] ^дюклит/дю<n><sg><allprl><px1pi>/дю̄<n><sg><allprl><px1pi>$
+[/JTGPLIaLuEo2]
+[JgYsjUh6_Phb#0] ^ӈинакиргит/ӈинакин<n><pl><ela>$
+[/JgYsjUh6_Phb]
+[Jopci6rkDyYR#0] ^орондитын/орон<n><sg><ins><px3pl>$
+[/Jopci6rkDyYR]
+[JqXeuKV2Ew8v#0] ^илэли/илэ<n><sg><prl>$
+[/JqXeuKV2Ew8v]
+[JuHHuP6Ip2Iq#0] ^орондулан/орон<n><sg><locall><px3sg>$
+[/JuHHuP6Ip2Iq]
+[Jw1UHv8n7kfX#0] ^яӈдула/яӈ<n><sg><locall>$
+[/Jw1UHv8n7kfX]
+[K0reTAdWw3Qf#0] ^оронмор/орон<n><sg><nom><ref-pl>/орон<n><sg><acc><def><ref-pl>$
+[/K0reTAdWw3Qf]
+[K9BEq0M4lstc#0] ^адылис/адыл<n><sg><nom><px2sg>/ады̄<prn><itg><prl><px2sg>$
+[/K9BEq0M4lstc]
+[KB1d16Z9b86y#0] ^гуснун/гус<n><sg><com-nun>$
+[/KB1d16Z9b86y]
+[KOr8T6TCqfzQ#0] ^каланни/кала<v><nfut><p2><sg>/калан<n><sg><nom><px2sg>/калан<n><sg><nom>\<poss\>$
+[/KOr8T6TCqfzQ]
+[KU8M1BFxHG39#0] ^дюдукив/дю<n><sg><abl><px1sg>/дю̄<n><sg><abl><px1sg>$
+[/KU8M1BFxHG39]
+[KbPsghtBx-jb#0] ^дювар/дю<n><sg><nom><ref-pl>/дю̄<n><sg><nom><ref-pl>/дю<n><sg><acc><def><ref-pl>/дю̄<n><sg><acc><def><ref-pl>$
+[/KbPsghtBx-jb]
+[KiFc7hCVBTVc#0] ^дюдукви/дю<n><sg><abl><ref-sg>/дю̄<n><sg><abl><ref-sg>$
+[/KiFc7hCVBTVc]
+[Kn-B5oojKfVG#0] ^дэткит/дэт<n><sg><ela>/дэт<n>\<atten-ki\><sg><ins>/дэт<n>\<atten-ki\><sg><nom><px1pi>$
+[/Kn-B5oojKfVG]
+[KrJeNRvPhZT5#0] ^дюдивун/дю<n><sg><ins><px1pe>/дю̄<n><sg><ins><px1pe>$
+[/KrJeNRvPhZT5]
+[KsuzzAW9pINa#0] ^мо̄я/мо̄<n><sg><acc><ind>$
+[/KsuzzAW9pINa]
+[Ku8QSswtiLXC#0] ^адылтын/адыл<n><sg><nom><px3pl>$
+[/Ku8QSswtiLXC]
+[KzrYisQgGzOO#0] ^муриррун/мурин<n><pl><nom><px2pl>$
+[/KzrYisQgGzOO]
+[LIPTZ5hzmQOM#0] ^гаракли/гара<n><sg><allprl>$
+[/LIPTZ5hzmQOM]
+[LWxvx23aBfej#0] ^бур/бун<n><pl><nom>/бур<n><sg><nom>$
+[/LWxvx23aBfej]
+[LgfCpUGKaL-2#0] ^ороннунтын/орон<n><sg><com-nun><px3pl>/оро<n><indposs><sg><com-nun><px3pl>$
+[/LgfCpUGKaL-2]
+[M-5gNi8j-T-e#0] ^дюлат/дю<n><pl><acc><ind><px1pi>/дю̄<n><pl><acc><ind><px1pi>/дю<n><sg><locall><px1pi>$
+[/M-5gNi8j-T-e]
+[M00XCDlvJ_6j#0] ^ороннунты/орон<n><sg><com-nun><px1pi>/оро<n><indposs><sg><com-nun><px1pi>$
+[/M00XCDlvJ_6j]
+[M0RPzbLrkfk4#0] ^яӈма/яӈ<n><sg><acc><def>/яӈ<n>\<ints3\><sg><nom>$
+[/M0RPzbLrkfk4]
+[M9SSijBttv-5#0] ^дюдукис/дю<n><sg><abl><px2sg>/дю̄<n><sg><abl><px2sg>$
+[/M9SSijBttv-5]
+[MCF6R6FvPTrY#0] ^орониклит/орон<n><sg><allprl><px1pi>/оро<n><indposs><sg><allprl><px1pi>$
+[/MCF6R6FvPTrY]
+[MXOKyF-Oq5hF#0] ^оронтыкив/орон<n><sg><all><px1sg>$
+[/MXOKyF-Oq5hF]
+[M_Om-d7cDW6Y#0] ^умуктула/*умуктула$
+[/M_Om-d7cDW6Y]
+[MeGsGSw0ftHP#0] ^дюливун/дю<n><sg><prl><px1pe>$
+[/MeGsGSw0ftHP]
+[N19jrzv1o1NL#0] ^дюклавар/дю<n><sg><locdir><ref-pl>/дю̄<n><sg><locdir><ref-pl>$
+[/N19jrzv1o1NL]
+[N1DJSqYJ05cY#0] ^бэрисун/бэр<n><sg><nom><px2pl>/бэ̄<v><p-sim><sg><nom><px2pl>$
+[/N1DJSqYJ05cY]
+[NIKF312GCOSz#0] ^дювавун/дю<n><sg><acc><def><px1pe>/дю̄<n><sg><acc><def><px1pe>/дюва<n><sg><nom><px1pe>$
+[/NIKF312GCOSz]
+[NNXe29gUZEOW#0] ^гара/га<v><p-neg>/га<v><nfut><p3><pl>/гара<n><sg><nom>$
+[/NNXe29gUZEOW]
+[NPdOucQRsLqR#0] ^дюяви/дю<n><sg><acc><ind><ref-sg>/дю̄<n><sg><acc><ind><ref-sg>/дюя<n><sg><nom><ref-sg>/дюя<n><sg><acc><def><ref-sg>$
+[/NPdOucQRsLqR]
+[O6XviR7Rxach#0] ^мо̄лдук/мо̄<n><pl><abl>$
+[/O6XviR7Rxach]
+[O8Kl8xwR5yha#0] ^илэтки/илэ<n><sg><all>$
+[/O8Kl8xwR5yha]
+[O9c2ewM1fhDu#0] ^умукикли/умук<n><sg><allprl>/умукӣ<n><sg><allprl>/умӯн<n>\<atten-ki\><sg><allprl>$
+[/O9c2ewM1fhDu]
+[O9eMX_zwX2PK#0] ^дюдус/дю<n><sg><datloc><px2sg>/дю̄<n><sg><datloc><px2sg>$
+[/O9eMX_zwX2PK]
+[OM_rlxYZcvMx#0] ^дяввун/дяв<n><sg><nom><px1pe>$
+[/OM_rlxYZcvMx]
+[OUpD48TiSnYF#0] ^дюлан/дю<n><pl><acc><ind><px3sg>/дю̄<n><pl><acc><ind><px3sg>/дю<n><sg><locall><px3sg>$
+[/OUpD48TiSnYF]
+[Oj6Ui6wdagOT#0] ^дюлатын/дю<n><pl><acc><ind><px3pl>/дю̄<n><pl><acc><ind><px3pl>/дю<n><sg><locall><px3pl>$
+[/Oj6Ui6wdagOT]
+[Oy3tX33DDHHJ#0] ^гаранун/гара<n><sg><com-nun>$
+[/Oy3tX33DDHHJ]
+[Oypv1lpggwQT#0] ^яӈдук/яӈ<n><sg><abl>$
+[/Oypv1lpggwQT]
+[OzPiT-V6HoD1#0] ^авуннун/авун<n><sg><com-nun>/авун<n><sg><nom><px2pl>$
+[/OzPiT-V6HoD1]
+[P01c5EtPngX0#0] ^ороновун/орон<n><sg><acc><ind><px1pe>/оро<v><p-pf><sg><nom><px1pe>$
+[/P01c5EtPngX0]
+[PHfbg5eheRyH#0] ^мо̄лдула/мо̄<n><pl><locall>$
+[/PHfbg5eheRyH]
+[Pt6GMkYYb810#0] ^хутэсун/хутэ<n><sg><nom><px2pl>$
+[/Pt6GMkYYb810]
+[QOZRkMLWznaj#0] ^дюдусун/дю<n><sg><datloc><px2pl>/дю̄<n><sg><datloc><px2pl>$
+[/QOZRkMLWznaj]
+[QZP0WqGHUoFR#0] ^дюнунин/дю<n><sg><com-nun><px3sg>/дю̄<n><sg><com-nun><px3sg>$
+[/QZP0WqGHUoFR]
+[QeMdDHGKjebc#0] ^оронӈидивун/орон<n><sg><ela><px1pe>/орон<n><indposs><sg><ins><px1pe>/оронӈи<adj><sg><ins><px1pe>$
+[/QeMdDHGKjebc]
+[QtMHp0N27pOf#0] ^буръе/бур<n><sg><acc><ind>$
+[/QtMHp0N27pOf]
+[Qz_j_N9fY989#0] ^ӈинакиндули/ӈинакин<n><sg><prl>$
+[/Qz_j_N9fY989]
+[R8mj5nZA_yU0#0] ^орониклив/орон<n><sg><allprl><px1sg>/оро<n><indposs><sg><allprl><px1sg>$
+[/R8mj5nZA_yU0]
+[RKSBa7GyHiPm#0] ^мо̄лтыки/мо̄<n><pl><all>$
+[/RKSBa7GyHiPm]
+[RP0PEPZ9k7fk#0] ^орондулит/орон<n><sg><prl><px1pi>$
+[/RP0PEPZ9k7fk]
+[RPa9rmKzkP_Q#0] ^авунтын/авун<n><sg><nom><px3pl>$
+[/RPa9rmKzkP_Q]
+[RVcH_De9k-nr#0] ^куримма/курим<n><sg><acc><def>/курим<n>\<ints3\><sg><nom>$
+[/RVcH_De9k-nr]
+[Rc-847xkkzk9#0] ^ороникливун/орон<n><sg><allprl><px1pe>/оро<n><indposs><sg><allprl><px1pe>$
+[/Rc-847xkkzk9]
+[Rhpr3MHfylB3#0] ^дювун/дю<n><sg><nom><px1pe>/дю̄<n><sg><nom><px1pe>/дювун<n><sg><nom>$
+[/Rhpr3MHfylB3]
+[RmzTwnj-oxnW#0] ^ороннуннун/орон<n><sg><com-nun><px2pl>/оро<n><indposs><sg><com-nun><px2pl>$
+[/RmzTwnj-oxnW]
+[RtqB9GbUuOAv#0] ^орондутын/орон<n><sg><datloc><px3pl>$
+[/RtqB9GbUuOAv]
+[RxUd9WbSprTk#0] ^оронмов/орон<n><sg><acc><def><px1sg>$
+[/RxUd9WbSprTk]
+[Rx_liU9TKaVS#0] ^оронӈидин/орон<n><sg><ela><px3sg>/орон<n><indposs><sg><ins><px3sg>/оронӈи<adj><sg><ins><px3sg>$
+[/Rx_liU9TKaVS]
+[S58s5BUyCaOR#0] ^курим/курим<n><sg><nom>$
+[/S58s5BUyCaOR]
+[S7DbRIqQnp4W#0] ^орорвун/орон<n><pl><nom><px1pe>$
+[/S7DbRIqQnp4W]
+[SLzilrXbQWmY#0] ^дюявар/дю<n><sg><acc><ind><ref-pl>/дю̄<n><sg><acc><ind><ref-pl>/дюя<n><sg><nom><ref-pl>/дюя<n><sg><acc><def><ref-pl>$
+[/SLzilrXbQWmY]
+[SUhoLBrASYDq#0] ^бурду/бун<n><pl><datloc>/бур<n><sg><datloc>$
+[/SUhoLBrASYDq]
+[SYg-BmVsxpPU#0] ^оронтыкисун/орон<n><sg><all><px2pl>$
+[/SYg-BmVsxpPU]
+[S_1XhwbRRhgs#0] ^дюткивун/дю<n><sg><all><px1pe>/дю̄<n><sg><all><px1pe>$
+[/S_1XhwbRRhgs]
+[SiKU_xWXtTvn#0] ^адылва/адыл<n><sg><acc><def>$
+[/SiKU_xWXtTvn]
+[SkxXsX5Jbc6m#0] ^дэттулэ/дэт<n><sg><locall>$
+[/SkxXsX5Jbc6m]
+[Sn2QolIo1DlX#0] ^орондулитын/орон<n><sg><prl><px3pl>$
+[/Sn2QolIo1DlX]
+[Sq-TkDMVXV9S#0] ^адылнун/адыл<n><sg><com-nun>$
+[/Sq-TkDMVXV9S]
+[SzIdNLI50H1u#0] ^ороннунин/орон<n><sg><com-nun><px3sg>/оро<n><indposs><sg><com-nun><px3sg>$
+[/SzIdNLI50H1u]
+[T-NOTYvjwQB2#0] ^бургит/бун<n><pl><ela>/бур<n><sg><ela>$
+[/T-NOTYvjwQB2]
+[T8ba18EDunic#0] ^орондукис/орон<n><sg><abl><px2sg>$
+[/T8ba18EDunic]
+[TBxvprOJDw1K#0] ^ӈинакирди/ӈинакин<n><pl><ins>$
+[/TBxvprOJDw1K]
+[TFjGsVTKFzJj#0] ^дюлас/дю<n><pl><acc><ind><px2sg>/дю̄<n><pl><acc><ind><px2sg>/дю<n><sg><locall><px2sg>/дюла<v><nfut><p2><pl>$
+[/TFjGsVTKFzJj]
+[TSw5fBPmuOFK#0] ^ӈинакинду/ӈинакин<n><sg><datloc>$
+[/TSw5fBPmuOFK]
+[TexggNEe-2mb#0] ^оронми/орон<n><sg><nom><px1sg>/орон<n><sg><nom><ref-sg>/орон<n><sg><acc><def><ref-sg>/оронмӣ<n><sg><nom>$
+[/TexggNEe-2mb]
+[To6zpyVBQ-NB#0] ^яӈъя/яӈ<n><sg><acc><ind>$
+[/To6zpyVBQ-NB]
+[TvJIp6lLcQr6#0] ^дютвар/дю<n><sg><ins><ref-pl>/дю̄<n><sg><ins><ref-pl>$
+[/TvJIp6lLcQr6]
+[TzBdG4jabCJ9#0] ^ӈинакинди/ӈинакин<n><sg><ins>$
+[/TzBdG4jabCJ9]
+[U005O47CJhfF#0] ^хутэтын/хутэ<n><sg><nom><px3pl>$
+[/U005O47CJhfF]
+[UP1tUxJTxUYD#0] ^дюдукит/дю<n><sg><abl><px1pi>/дю̄<n><sg><abl><px1pi>$
+[/UP1tUxJTxUYD]
+[UYA0U9rukJEG#0] ^дявин/дяв<n><sg><nom><px3sg>/дяви<n><sg><nom><px3sg>$
+[/UYA0U9rukJEG]
+[UclL1BpYklVs#0] ^дюклавун/дю<n><sg><locdir><px1pe>/дю̄<n><sg><locdir><px1pe>$
+[/UclL1BpYklVs]
+[UmGGDwGG7CtJ#0] ^хутэв/хутэ<n><sg><nom><px1sg>$
+[/UmGGDwGG7CtJ]
+[UsjYNdAOvWZL#0] ^густыки/гус<n><sg><all>$
+[/UsjYNdAOvWZL]
+[V40qpE9_hvFV#0] ^яӈнун/яӈ<n><sg><com-nun>$
+[/V40qpE9_hvFV]
+[VSviU-GmXxoM#0] ^ӈинакиртыки/ӈинакин<n><pl><all>$
+[/VSviU-GmXxoM]
+[VaqVxgsBwEMQ#0] ^орониклавун/орон<n><sg><locdir><px1pe>/оро<n><indposs><sg><locdir><px1pe>$
+[/VaqVxgsBwEMQ]
+[VkeBDuy28E4B#0] ^дюлави/дю<n><pl><acc><ind><ref-sg>/дю̄<n><pl><acc><ind><ref-sg>/дю<n><sg><locall><ref-sg>$
+[/VkeBDuy28E4B]
+[VwTuF3BkMEfB#0] ^авунмун/авун<n><sg><nom><px1pe>$
+[/VwTuF3BkMEfB]
+[W4nwzJjKqquf#0] ^оронотын/орон<n><sg><acc><ind><px3pl>/оро<v><p-pf><sg><nom><px3pl>/оро<v><p-purp><sg><nom><px3sg>/оро<v><opt><p3><sg>$
+[/W4nwzJjKqquf]
+[WUs1G8wWZpy0#0] ^орондивар/орон<n><sg><ins><ref-pl>$
+[/WUs1G8wWZpy0]
+[WZgj2Fl346YS#0] ^муририн/мурин<n><pl><nom><px3sg>$
+[/WZgj2Fl346YS]
+[W_MCNk3Jw1v9#0] ^оронон/оро<n><sg><com-nan>/орон<n><sg><com-nan>/орон<n><sg><acc><ind><px3sg>/оро<v><prob1><p3><sg>/оро<v><p-pf><sg><nom><px3sg>$
+[/W_MCNk3Jw1v9]
+[WbYRn85kCwM8#0] ^гарая/гара<n><sg><acc><ind>$
+[/WbYRn85kCwM8]
+[WcQU-8fxKHjq#0] ^куримикли/курим<n><sg><allprl>/кури<n>\<eval-mi\><sg><allprl>$
+[/WcQU-8fxKHjq]
+[WsuMHxVo-OKq#0] ^адыл/адыл<n><sg><nom>$
+[/WsuMHxVo-OKq]
+[WtYFx5bxn40n#0] ^гололи/голо<n><sg><prl>$
+[/WtYFx5bxn40n]
+[WwZPxW7nxvJy#0] ^орондис/орон<n><sg><ins><px2sg>$
+[/WwZPxW7nxvJy]
+[XEH9eBU_p1js#0] ^бэрин/бэр<n><sg><nom><px3sg>/бэ̄<v><p-sim><sg><nom><px3sg>$
+[/XEH9eBU_p1js]
+[XI5uMI1qOInE#0] ^ӈинакирду/ӈинакин<n><pl><datloc>$
+[/XI5uMI1qOInE]
+[XKXk6PThpr8g#0] ^голоду/голо<n><sg><datloc>$
+[/XKXk6PThpr8g]
+[XLfB3-7RakkS#0] ^дюс/дю<n><sg><nom><px2sg>/дю̄<n><sg><nom><px2sg>/дю<v><nfut><p2><pl>$
+[/XLfB3-7RakkS]
+[XYoCW7FbScQn#0] ^орондулис/орон<n><sg><prl><px2sg>$
+[/XYoCW7FbScQn]
+[XhnehYvXnfy5#0] ^умуктули/умук<n><sg><prl>$
+[/XhnehYvXnfy5]
+[Xie0r-P6pp0L#0] ^гусиклэ/*гусиклэ$
+[/Xie0r-P6pp0L]
+[Xk_H5QTRq4dV#0] ^дюлин/дю<n><pl><nom><px3sg>/дю̄<n><pl><nom><px3sg>/дю<n><sg><prl><px3sg>$
+[/Xk_H5QTRq4dV]
+[XohWCtySD6PQ#0] ^орондуливи/орон<n><sg><prl><ref-sg>$
+[/XohWCtySD6PQ]
+[XsFhOglm5aj3#0] ^дюян/дю<n><sg><acc><ind><px3sg>/дю̄<n><sg><acc><ind><px3sg>/дюя<n><sg><nom><px3sg>$
+[/XsFhOglm5aj3]
+[XugehKwh12RR#0] ^куримдук/курим<n><sg><abl>$
+[/XugehKwh12RR]
+[Xx8HtCRvdI-c#0] ^дюклис/дю<n><sg><allprl><px2sg>/дю̄<n><sg><allprl><px2sg>$
+[/Xx8HtCRvdI-c]
+[Xy01CsKZl1it#0] ^дявисун/дяв<n><sg><nom><px2pl>/дяви<n><sg><nom><px2pl>$
+[/Xy01CsKZl1it]
+[XzeylqffEgjP#0] ^калантын/калан<n><sg><nom><px3pl>$
+[/XzeylqffEgjP]
+[Y0dwdsrbckAF#0] ^ороннунмар/орон<n><sg><com-nun><ref-pl>/оро<n><indposs><sg><com-nun><ref-pl>$
+[/Y0dwdsrbckAF]
+[Y39Ksp4Hz50J#0] ^орониклавэр/*орониклавэр$
+[/Y39Ksp4Hz50J]
+[YIHaHrwQswl1#0] ^ороновор/орон<n><sg><acc><ind><ref-pl>/оро<v><p-pf><sg><nom><ref-pl>/оро<v><p-pf><sg><acc><def><ref-pl>$
+[/YIHaHrwQswl1]
+[YQAFCOrAtP4P#0] ^гагъе/гаг<n><sg><acc><ind>/га̄г<n><sg><acc><ind>$
+[/YQAFCOrAtP4P]
+[YTgSeE9HwMvE#0] ^орондулав/орон<n><sg><locall><px1sg>$
+[/YTgSeE9HwMvE]
+[Y_JdR3zRdnLR#0] ^гагдули/гаг<n><sg><prl>/га̄г<n><sg><prl>$
+[/Y_JdR3zRdnLR]
+[Y_dMetBj31G9#0] ^дюяс/дю<n><sg><acc><ind><px2sg>/дю̄<n><sg><acc><ind><px2sg>/дюя<n><sg><nom><px2sg>$
+[/Y_dMetBj31G9]
+[Yj8CdYw5eC7w#0] ^оронот/орон<n><sg><acc><ind><px1pi>/оро<v><p-pf><sg><nom><px1pi>/оро<v><p-purp><sg><nom>$
+[/Yj8CdYw5eC7w]
+[Z2NiothlbABD#0] ^орондут/орон<n><sg><datloc><px1pi>$
+[/Z2NiothlbABD]
+[Z8c1kMm7i8U-#0] ^куримдула/курим<n><sg><locall>$
+[/Z8c1kMm7i8U-]
+[ZCsxY4atq6yH#0] ^дюллун/дю<n><pl><nom><px2pl>/дю̄<n><pl><nom><px2pl>$
+[/ZCsxY4atq6yH]
+[ZD8jNMYWp4-r#0] ^дэтту/дэт<n><sg><datloc>$
+[/ZD8jNMYWp4-r]
+[ZJTcAzjKVtm3#0] ^мо̄лди/мо̄<n><pl><ins>$
+[/ZJTcAzjKVtm3]
+[ZRJGja0bW35q#0] ^ороннунмун/орон<n><sg><com-nun><px1pe>/оро<n><indposs><sg><com-nun><px1pe>$
+[/ZRJGja0bW35q]
+[ZatjzP3pPP5S#0] ^дювавар/дюва<n><sg><nom><ref-pl>/дюва<n><sg><acc><def><ref-pl>$
+[/ZatjzP3pPP5S]
+[Zve7hcUMASi-#0] ^мо̄кли/мо̄<n><sg><allprl>$
+[/Zve7hcUMASi-]
+[Zyi5chnrq8o_#0] ^дювас/дю<n><sg><acc><def><px2sg>/дю̄<n><sg><acc><def><px2sg>/дюва<n><sg><nom><px2sg>$
+[/Zyi5chnrq8o_]
+[_0LT3Ghf-CKV#0] ^бурдук/бун<n><pl><abl>/бур<n><sg><abl>/бурдук<n><sg><nom>$
+[/_0LT3Ghf-CKV]
+[_MyVIIP1N-Q9#0] ^дюткис/дю<n><sg><all><px2sg>/дю̄<n><sg><all><px2sg>$
+[/_MyVIIP1N-Q9]
+[_NNxdBEp2vCV#0] ^орондувун/орон<n><sg><datloc><px1pe>$
+[/_NNxdBEp2vCV]
+[_TtXSfW-0cbt#0] ^гагвэ/гаг<n><sg><acc><def>/га̄г<n><sg><acc><def>$
+[/_TtXSfW-0cbt]
+[_WeyBJP8yZP7#0] ^илэнун/илэ<n><sg><com-nun>$
+[/_WeyBJP8yZP7]
+[_YnbMnYKaumq#0] ^дюв/дю<n><sg><nom><px1sg>/дю̄<n><sg><nom><px1sg>$
+[/_YnbMnYKaumq]
+[_YyEFNdt3lyX#0] ^куримӈит/курим<n><sg><ela>/курим<n><indposs><sg><nom><px1pi>/курим<n><sg><nom>\<poss\><px1pi>$
+[/_YyEFNdt3lyX]
+[_cmNsbHdqzIJ#0] ^бэрвун/бэр<n><sg><nom><px1pe>$
+[/_cmNsbHdqzIJ]
+[_rEThrCkVVfP#0] ^оронмон/орон<n><sg><acc><def><px3sg>$
+[/_rEThrCkVVfP]
+[_w4s18NUNj8g#0] ^умуктыки/умук<n><sg><all>/умӯкты<n>\<atten-ki\><sg><nom>$
+[/_w4s18NUNj8g]
+[aSKGy-I_n1wB#0] ^умуква/*умуква$
+[/aSKGy-I_n1wB]
+[aYHrPs4RXUBn#0] ^дюдитын/дю<n><sg><ins><px3pl>/дю̄<n><sg><ins><px3pl>$
+[/aYHrPs4RXUBn]
+[ajOy1w7bRI2T#0] ^мо̄ва/мо̄<n><sg><acc><def>$
+[/ajOy1w7bRI2T]
+[ajoBRnyvgufu#0] ^гагнун/гаг<n><sg><com-nun>/га̄г<n><sg><com-nun>$
+[/ajoBRnyvgufu]
+[asMJDYBc9Tvz#0] ^авунты/авун<n><sg><nom><px1pi>$
+[/asMJDYBc9Tvz]
+[axzIOwmGRqCp#0] ^ӈинакиникли/ӈинакин<n><sg><allprl>$
+[/axzIOwmGRqCp]
+[b15sSdvga4tV#0] ^мо̄гит/мо̄<n><sg><ela>$
+[/b15sSdvga4tV]
+[b7k3J7UNljDT#0] ^орондукви/орон<n><sg><abl><ref-sg>$
+[/b7k3J7UNljDT]
+[b8O4S4xdmAV0#0] ^дюн/дюн<n><sg><nom>/дю<n><sg><nom><px3sg>/дю̄<n><sg><nom><px3sg>$
+[/b8O4S4xdmAV0]
+[bM6lKVW5PAwu#0] ^дюлавун/дю<n><pl><acc><ind><px1pe>/дю̄<n><pl><acc><ind><px1pe>/дю<n><sg><locall><px1pe>$
+[/bM6lKVW5PAwu]
+[bQMX74mEMP4r#0] ^ӈинакина/ӈинакин<n><sg><acc><ind>$
+[/bQMX74mEMP4r]
+[bYe1tI5fsZVJ#0] ^оронос/орон<n><sg><acc><ind><px2sg>/оро<v><prob1><p2><pl>/оро<v><p-pf><sg><nom><px2sg>/оро<v>\<directive\><nfut><p2><pl>$
+[/bYe1tI5fsZVJ]
+[c9HG70m9KsUp#0] ^мурирты/мурин<n><pl><nom><px1pi>$
+[/c9HG70m9KsUp]
+[cHOo8NQjqjhX#0] ^авунни/а̄<v>\<tr-v\><nfut><p2><sg>/а̄<v>\<pass\><nfut><p2><sg>/авун<n><sg><nom><px2sg>/авун<n><sg><nom>\<poss\>$
+[/cHOo8NQjqjhX]
+[cHvUmzSmVnW2#0] ^голокло/голо<n><sg><locdir>$
+[/cHvUmzSmVnW2]
+[cJiSCizq-sun#0] ^бурдулэ/бун<n><pl><locall>/бур<n><sg><locall>$
+[/cJiSCizq-sun]
+[cMfFv3o52suP#0] ^дюклитын/дю<n><sg><allprl><px3pl>/дю̄<n><sg><allprl><px3pl>$
+[/cMfFv3o52suP]
+[cdULKxFhATmf#0] ^дюватын/дю<n><sg><acc><def><px3pl>/дю̄<n><sg><acc><def><px3pl>/дюва<n><sg><nom><px3pl>$
+[/cdULKxFhATmf]
+[ckqrvc1ICoxE#0] ^орониклисун/орон<n><sg><allprl><px2pl>/оро<n><indposs><sg><allprl><px2pl>$
+[/ckqrvc1ICoxE]
+[dSUWpMa9kLxw#0] ^оронов/орон<n><sg><acc><ind><px1sg>/оро<v><p-pf><sg><nom><px1sg>$
+[/dSUWpMa9kLxw]
+[dk49cArcgKGH#0] ^умукиклэ/умук<n><sg><locdir>/умукӣ<n><sg><locdir>/умӯн<n>\<atten-ki\><sg><locdir>$
+[/dk49cArcgKGH]
+[e2sByn9XUkdt#0] ^ӈинакиндула/ӈинакин<n><sg><locall>$
+[/e2sByn9XUkdt]
+[eCg-nIdf3Q9O#0] ^гагдук/гаг<n><sg><abl>/га̄г<n><sg><abl>$
+[/eCg-nIdf3Q9O]
+[ePM1ZclSBqLG#0] ^гагтыки/гаг<n><sg><all>/га̄г<n><sg><all>$
+[/ePM1ZclSBqLG]
+[egJDs2gC02ec#0] ^дюсун/дю<n><sg><nom><px2pl>/дю̄<n><sg><nom><px2pl>/дюсун<adj><sg><nom>$
+[/egJDs2gC02ec]
+[ei_ZfIHz978X#0] ^дюкливи/дю<n><sg><allprl><ref-sg>/дю̄<n><sg><allprl><ref-sg>$
+[/ei_ZfIHz978X]
+[eqzFrxLfu7nb#0] ^хутэвун/хутэ<n><sg><nom><px1pe>/хутэвун<n><sg><nom>$
+[/eqzFrxLfu7nb]
+[f3741c0TSSvY#0] ^дюклатын/дю<n><sg><locdir><px3pl>/дю̄<n><sg><locdir><px3pl>$
+[/f3741c0TSSvY]
+[fAYdby9dPMis#0] ^оронмотын/орон<n><sg><acc><def><px3pl>$
+[/fAYdby9dPMis]
+[fC7EvNH9zKyV#0] ^дюгидис/дю<n><sg><ela><px2sg>/дю̄<n><sg><ela><px2sg>/дюгӣ<n><sg><ins><px2sg>$
+[/fC7EvNH9zKyV]
+[fJrDZrjfkqaH#0] ^ороносун/орон<n><sg><acc><ind><px2pl>/оро<v><p-pf><sg><nom><px2pl>$
+[/fJrDZrjfkqaH]
+[fUld8WmuzFWN#0] ^орондит/орон<n><sg><ins><px1pi>$
+[/fUld8WmuzFWN]
+[fZEe47DH82J_#0] ^орондиви/орон<n><sg><ins><ref-sg>$
+[/fZEe47DH82J_]
+[ffQVCQvxL_6v#0] ^бэрит/бэр<n><sg><ins>/бэр<n><sg><nom><px1pi>/бэ̄<v><p-sim><sg><ins>/бэ̄<v><p-sim><sg><nom><px1pi>$
+[/ffQVCQvxL_6v]
+[fmTQFY_1T3ek#0] ^оронмун/орон<n><sg><nom><px1pe>$
+[/fmTQFY_1T3ek]
+[g9MOr0HQkO5N#0] ^адылдук/адыл<n><sg><abl>$
+[/g9MOr0HQkO5N]
+[gLb4cCYuf20n#0] ^ӈинакин/ӈинакин<n><sg><nom>/ӈина<n>\<atten-ki\><sg><nom><px3sg>$
+[/gLb4cCYuf20n]
+[gPx382HHQvkb#0] ^ороннун/орон<n><sg><com-nun>/орон<n><sg><nom><px2pl>$
+[/gPx382HHQvkb]
+[gcyumixmKB0P#0] ^дэтвэ/дэт<n><sg><acc><def>$
+[/gcyumixmKB0P]
+[gewHVjc64v-4#0] ^бэрис/бэр<n><sg><nom><px2sg>/бэ̄<v><p-sim><sg><nom><px2sg>$
+[/gewHVjc64v-4]
+[geyriND_0zGj#0] ^умук/умук<n><sg><nom>$
+[/geyriND_0zGj]
+[gp95q0EE2JDy#0] ^дявит/дяв<n><sg><ins>/дяв<n><sg><nom><px1pi>/дяви<n><sg><ins>/дяви<n><sg><nom><px1pi>$
+[/gp95q0EE2JDy]
+[grOyj6sERBwl#0] ^бурикли/бун<n><pl><allprl>/бур<n><sg><allprl>/бу<v><p-sim><sg><allprl>/бӯ<v><p-sim><sg><allprl>$
+[/grOyj6sERBwl]
+[hePX5uHrvI77#0] ^дюдуксун/дю<n><sg><abl><px2pl>/дю̄<n><sg><abl><px2pl>$
+[/hePX5uHrvI77]
+[hhRIJTJP0CqT#0] ^мо̄ла/мо̄<n><pl><acc><ind>$
+[/hhRIJTJP0CqT]
+[hkcta-DGTy_c#0] ^густу/гус<n><sg><datloc>$
+[/hkcta-DGTy_c]
+[hq6fGOga8Akd#0] ^оронтыкивун/орон<n><sg><all><px1pe>$
+[/hq6fGOga8Akd]
+[i-6W5mbtHP0b#0] ^мо̄тки/мо̄<n><sg><all>$
+[/i-6W5mbtHP0b]
+[i9T6_9ykyzgA#0] ^илэкли/илэ<n><sg><allprl>$
+[/i9T6_9ykyzgA]
+[iHxVzPNNHHt_#0] ^адылтыки/адыл<n><sg><all>$
+[/iHxVzPNNHHt_]
+[iMxbdXOQ0a0Z#0] ^ороникливар/орон<n><sg><allprl><ref-pl>/оро<n><indposs><sg><allprl><ref-pl>$
+[/iMxbdXOQ0a0Z]
+[iQc-PUwiEe4Y#0] ^умуктук/умук<n><sg><abl>$
+[/iQc-PUwiEe4Y]
+[iTmUjvB9YFmu#0] ^хутэлин/хутэ<n><pl><nom><px3sg>/хутэл<n><sg><nom><px3sg>/хутэ<n><sg><prl><px3sg>$
+[/iTmUjvB9YFmu]
+[iVhwK-rRIuAI#0] ^дюлив/дю<n><sg><prl><px1sg>$
+[/iVhwK-rRIuAI]
+[il6n6-d9uP1E#0] ^умуккит/умук<n><sg><ela>/умук<n>\<atten-ki\><sg><ins>/умук<n>\<atten-ki\><sg><nom><px1pi>$
+[/il6n6-d9uP1E]
+[jB1c1DMqu_AW#0] ^дюлви/дю<n><pl><nom><px1sg>/дю<n><pl><nom><ref-sg>/дю̄<n><pl><nom><px1sg>/дю̄<n><pl><nom><ref-sg>/дю<n><pl><acc><def><ref-sg>/дю̄<n><pl><acc><def><ref-sg>$
+[/jB1c1DMqu_AW]
+[jOYcfE1un0ra#0] ^каланин/калан<n><sg><nom><px3sg>/ка̄<n><sg><locall>\<poss\><px3sg>$
+[/jOYcfE1un0ra]
+[jcgTbAYdObXW#0] ^куримду/курим<n><sg><datloc>$
+[/jcgTbAYdObXW]
+[jcmHHRbdEDt1#0] ^адылгит/адыл<n><sg><ela>$
+[/jcmHHRbdEDt1]
+[jiQNCvEd6AXk#0] ^оронтыкитын/орон<n><sg><all><px3pl>$
+[/jiQNCvEd6AXk]
+[jiooAYG5VXCD#0] ^орорри/орон<n><pl><nom><px2sg>$
+[/jiooAYG5VXCD]
+[jrdj0GOWzJVl#0] ^адылду/адыл<n><sg><datloc>$
+[/jrdj0GOWzJVl]
+[k7NNKzZCOzd9#0] ^дявив/дяв<n><sg><nom><px1sg>/дяви<n><sg><nom><px1sg>$
+[/k7NNKzZCOzd9]
+[kHSmkva13eoz#0] ^куримнун/курим<n><sg><com-nun>$
+[/kHSmkva13eoz]
+[kPUCkeJ0Sejg#0] ^дюви/дю<n><sg><nom><ref-sg>/дю̄<n><sg><nom><ref-sg>/дю<n><sg><acc><def><ref-sg>/дю̄<n><sg><acc><def><ref-sg>$
+[/kPUCkeJ0Sejg]
+[kUmbJVwQRAys#0] ^гаггит/гаг<n><sg><ela>/га̄г<n><sg><ela>$
+[/kUmbJVwQRAys]
+[kY3TmQ6TM9sI#0] ^дюят/дю<n><sg><acc><ind><px1pi>/дю̄<n><sg><acc><ind><px1pi>/дюя<n><sg><ins>/дюя<n><sg><nom><px1pi>$
+[/kY3TmQ6TM9sI]
+[k_yILZCmivaL#0] ^умукту/умук<n><sg><datloc>$
+[/k_yILZCmivaL]
+[l3q-8-7mepbJ#0] ^дюдит/дю<n><sg><ins><px1pi>/дю̄<n><sg><ins><px1pi>$
+[/l3q-8-7mepbJ]
+[lMIQYoFzpKCV#0] ^орониклав/орон<n><sg><locdir><px1sg>/оро<n><indposs><sg><locdir><px1sg>$
+[/lMIQYoFzpKCV]
+[l_CHwAi7_8jA#0] ^орониклин/орон<n><sg><allprl><px3sg>/оро<n><indposs><sg><allprl><px3sg>$
+[/l_CHwAi7_8jA]
+[lat2BJjZZ-XG#0] ^яӈӈит/яӈ<n><sg><ela>/яӈ<n><indposs><sg><nom><px1pi>/яӈ<n><sg><nom>\<poss\><px1pi>$
+[/lat2BJjZZ-XG]
+[lhQgLEzTXXWt#0] ^дюдин/дю<n><sg><ins><px3sg>/дю̄<n><sg><ins><px3sg>$
+[/lhQgLEzTXXWt]
+[luScJDKyTE8w#0] ^дэтыкли/дэт<n><sg><allprl>$
+[/luScJDKyTE8w]
+[lxQZINy9AWia#0] ^каланми/калан<n><sg><nom><px1sg>/калан<n><sg><nom><ref-sg>/калан<n><sg><acc><def><ref-sg>$
+[/lxQZINy9AWia]
+[m-gnkoUBPp7J#0] ^орондувар/орон<n><sg><datloc><ref-pl>$
+[/m-gnkoUBPp7J]
+[mLoX5t3PbEVZ#0] ^дюклат/дю<n><sg><locdir><px1pi>/дю̄<n><sg><locdir><px1pi>$
+[/mLoX5t3PbEVZ]
+[mPUilUspeeog#0] ^дявтын/дяв<n><sg><nom><px3pl>$
+[/mPUilUspeeog]
+[mcWxrHF1nKXo#0] ^гагдулэ/гаг<n><sg><locall>$
+[/mcWxrHF1nKXo]
+[mprDVAzfG5WG#0] ^орондуливар/орон<n><sg><prl><ref-pl>$
+[/mprDVAzfG5WG]
+[mpuZ_XWzufb8#0] ^адылисун/адыл<n><sg><nom><px2pl>/ады̄<prn><itg><prl><px2pl>$
+[/mpuZ_XWzufb8]
+[myONn4drjJzQ#0] ^дюлис/дю<n><sg><prl><px2sg>$
+[/myONn4drjJzQ]
+[n0aYjhp52cJv#0] ^орондулив/орон<n><sg><prl><px1sg>$
+[/n0aYjhp52cJv]
+[nL3jJVYtiiWG#0] ^дюткив/дю<n><sg><all><px1sg>/дю̄<n><sg><all><px1sg>$
+[/nL3jJVYtiiWG]
+[nNZSpjvGj7UL#0] ^дэттули/дэт<n><sg><prl>$
+[/nNZSpjvGj7UL]
+[nlWJb8cdmMw6#0] ^ӈинакинма/ӈинакин<n><sg><acc><def>$
+[/nlWJb8cdmMw6]
+[o3r_CPrUqTv1#0] ^адылвун/адыл<n><sg><nom><px1pe>$
+[/o3r_CPrUqTv1]
+[oHp6cv_GAycf#0] ^дюдут/дю<n><sg><datloc><px1pi>/дю̄<n><sg><datloc><px1pi>$
+[/oHp6cv_GAycf]
+[oPQaCqf6r1I4#0] ^бурикла/бу<v><p-sim><sg><locdir>$
+[/oPQaCqf6r1I4]
+[oT88DdPjcDGZ#0] ^дюклисун/дю<n><sg><allprl><px2pl>/дю̄<n><sg><allprl><px2pl>$
+[/oT88DdPjcDGZ]
+[ofp3OE55HUNe#0] ^орондин/орон<n><sg><ins><px3sg>$
+[/ofp3OE55HUNe]
+[ogvi3w0qA1Pa#0] ^оронтыкиви/орон<n><sg><all><ref-sg>$
+[/ogvi3w0qA1Pa]
+[omLXRHnEgwOE#0] ^оронмот/орон<n><sg><acc><def><px1pi>$
+[/omLXRHnEgwOE]
+[ooeiuhh94VXy#0] ^дюклас/дю<n><sg><locdir><px2sg>/дю̄<n><sg><locdir><px2sg>$
+[/ooeiuhh94VXy]
+[opVDvuDx7e6v#0] ^орорин/орон<n><pl><nom><px3sg>/оро<v><p-sim><sg><nom><px3sg>$
+[/opVDvuDx7e6v]
+[p4YU98yC6K4p#0] ^дюван/дю<n><sg><acc><def><px3sg>/дю̄<n><sg><acc><def><px3sg>/дюва<n><sg><nom><px3sg>$
+[/p4YU98yC6K4p]
+[pJrkgOQhDcQX#0] ^адылив/адыл<n><sg><nom><px1sg>/ады̄<prn><itg><prl><px1sg>$
+[/pJrkgOQhDcQX]
+[pMWI60Gl0e_V#0] ^яӈ/яӈ<n><sg><nom>$
+[/pMWI60Gl0e_V]
+[pRFczIydrw3s#0] ^орондуквар/орон<n><sg><abl><ref-pl>$
+[/pRFczIydrw3s]
+[poJyja2634cQ#0] ^ӈинакиннун/ӈинакин<n><sg><com-nun>/ӈинакин<n><sg><nom><px2pl>$
+[/poJyja2634cQ]
+[qNz6MYkfS_me#0] ^орондив/орон<n><sg><ins><px1sg>$
+[/qNz6MYkfS_me]
+[qmVL-KOJ0Zoc#0] ^орониклитын/орон<n><sg><allprl><px3pl>/оро<n><indposs><sg><allprl><px3pl>$
+[/qmVL-KOJ0Zoc]
+[qoOpRD4UzcWX#0] ^орондуви/орон<n><sg><datloc><ref-sg>$
+[/qoOpRD4UzcWX]
+[qpveMmGPlyhr#0] ^орониклас/орон<n><sg><locdir><px2sg>/оро<n><indposs><sg><locdir><px2sg>$
+[/qpveMmGPlyhr]
+[qrQvMc6hAgO6#0] ^дэттыки/дэт<n><sg><all>$
+[/qrQvMc6hAgO6]
+[qv1xmoIUo6aW#0] ^оронмовун/орон<n><sg><acc><def><px1pe>$
+[/qv1xmoIUo6aW]
+[r1e77CIMxQuM#0] ^куримъя/курим<n><sg><acc><ind>$
+[/r1e77CIMxQuM]
+[rAlquEWMZ-HH#0] ^ороникласун/орон<n><sg><locdir><px2pl>/оро<n><indposs><sg><locdir><px2pl>$
+[/rAlquEWMZ-HH]
+[rDc-2_EKXXGd#0] ^гараду/гара<n><sg><datloc>$
+[/rDc-2_EKXXGd]
+[rGMBqDOiq1_W#0] ^мо̄ликли/мо̄<n><pl><allprl>$
+[/rGMBqDOiq1_W]
+[rHPP5TEYt2HH#0] ^ӈинакира/ӈинакин<n><pl><acc><ind>$
+[/rHPP5TEYt2HH]
+[rYuM6VQIma13#0] ^куримдули/курим<n><sg><prl>$
+[/rYuM6VQIma13]
+[ra6nGNGrz6ne#0] ^мурирвун/мурин<n><pl><nom><px1pe>$
+[/ra6nGNGrz6ne]
+[rgx6TZKLLW2q#0] ^дюкливар/дю<n><sg><allprl><ref-pl>/дю̄<n><sg><allprl><ref-pl>$
+[/rgx6TZKLLW2q]
+[ritPvlM_NJmD#0] ^хутэлви/хутэ<n><pl><nom><px1sg>/хутэ<n><pl><nom><ref-sg>/хутэ<n><pl><acc><def><ref-sg>/хутэл<n><sg><nom><ref-sg>/хутэл<n><sg><acc><def><ref-sg>$
+[/ritPvlM_NJmD]
+[rrW_Ffz_hPS9#0] ^гололо/голо<n><pl><acc><ind>/голо<n><sg><locall>$
+[/rrW_Ffz_hPS9]
+[rsY_YCAd03Oe#0] ^дюясун/дю<n><sg><acc><ind><px2pl>/дю̄<n><sg><acc><ind><px2pl>/дюя<n><sg><nom><px2pl>$
+[/rsY_YCAd03Oe]
+[rwsxqT-LE4Hm#0] ^дюгидив/дю<n><sg><ela><px1sg>/дю̄<n><sg><ela><px1sg>/дюгӣ<n><sg><ins><px1sg>$
+[/rwsxqT-LE4Hm]
+[rxnUjENwwP0k#0] ^гускит/гус<n><sg><ela>/гус<n>\<atten-ki\><sg><ins>/гус<n>\<atten-ki\><sg><nom><px1pi>$
+[/rxnUjENwwP0k]
+[rzaEkL5y_k59#0] ^дюласун/дю<n><pl><acc><ind><px2pl>/дю̄<n><pl><acc><ind><px2pl>/дю<n><sg><locall><px2pl>$
+[/rzaEkL5y_k59]
+[s7-eYz24St7i#0] ^мо̄л/мо̄<n><pl><nom>$
+[/s7-eYz24St7i]
+[sGC1ZZfORTrY#0] ^илэгит/илэ<n><sg><ela>$
+[/sGC1ZZfORTrY]
+[sJ1mkOlHvcP3#0] ^мурирри/мурин<n><pl><nom><px2sg>$
+[/sJ1mkOlHvcP3]
+[sSPSeviqorOA#0] ^голово/голо<n><sg><acc><def>$
+[/sSPSeviqorOA]
+[sVC1_2ljQIv_#0] ^дявис/дяв<n><sg><nom><px2sg>/дяви<n><sg><nom><px2sg>$
+[/sVC1_2ljQIv_]
+[snb23I8IKPw_#0] ^гарагит/гара<n><sg><ela>$
+[/snb23I8IKPw_]
+[spkUDqFuz3vV#0] ^яӈикли/яӈ<n><sg><allprl>/яӈи<n><sg><allprl>$
+[/spkUDqFuz3vV]
+[t-DX5p-xihVn#0] ^мо̄т/мо̄<n><sg><ins>/мо̄<n><sg><nom><px1pi>$
+[/t-DX5p-xihVn]
+[t4r0jSG44FFc#0] ^дюткисун/дю<n><sg><all><px2pl>/дю̄<n><sg><all><px2pl>$
+[/t4r0jSG44FFc]
+[t6d4pgRxt1y0#0] ^мо̄лнун/мо̄<n><pl><com-nun>$
+[/t6d4pgRxt1y0]
+[tJSfhJ3iK8XO#0] ^дюливар/дю<n><sg><prl><ref-pl>$
+[/tJSfhJ3iK8XO]
+[tLIEPYPKUTHB#0] ^дюкливун/дю<n><sg><allprl><px1pe>/дю̄<n><sg><allprl><px1pe>$
+[/tLIEPYPKUTHB]
+[t_KTs1UBIpzf#0] ^умукит/умук<n><sg><ins>/умук<n><sg><nom><px1pi>/умукӣ<n><sg><ins>/умукӣ<n><sg><nom><px1pi>/умӯн<n>\<atten-ki\><sg><ins>/умӯн<n>\<atten-ki\><sg><nom><px1pi>$
+[/t_KTs1UBIpzf]
+[th_712m3AyuV#0] ^мо̄лдули/мо̄<n><pl><prl>$
+[/th_712m3AyuV]
+[tjwDM2XSA4JO#0] ^хутэс/хутэ<n><sg><nom><px2sg>$
+[/tjwDM2XSA4JO]
+[tnqmJyQzz0Ow#0] ^дюлли/дю<n><pl><nom><px2sg>/дю̄<n><pl><nom><px2sg>$
+[/tnqmJyQzz0Ow]
+[tpLXf2F3kUFh#0] ^дюлит/дю<n><sg><prl><px1pi>$
+[/tpLXf2F3kUFh]
+[u25IQVCCMMYH#0] ^дюткивар/дю<n><sg><all><ref-pl>/дю̄<n><sg><all><ref-pl>$
+[/u25IQVCCMMYH]
+[u6wcIV21F1es#0] ^адылин/адыл<n><sg><nom><px3sg>/ады̄<prn><itg><prl><px3sg>$
+[/u6wcIV21F1es]
+[u7MUHC0Iejws#0] ^дюгитвар/дю<n><sg><ela><ref-pl>/дю̄<n><sg><ela><ref-pl>/дюгӣ<n><sg><ins><ref-pl>$
+[/u7MUHC0Iejws]
+[u8MjMZyVa4I_#0] ^мо̄/мо̄<n><sg><nom>$
+[/u8MjMZyVa4I_]
+[uLf4YxEkiURn#0] ^дювасун/дю<n><sg><acc><def><px2pl>/дю̄<n><sg><acc><def><px2pl>/дюва<n><sg><nom><px2pl>$
+[/uLf4YxEkiURn]
+[ucZ9xIvsLVbJ#0] ^бурдули/бун<n><pl><prl>/бур<n><sg><prl>$
+[/ucZ9xIvsLVbJ]
+[ui_eZoqAwaoq#0] ^густулэ/*густулэ$
+[/ui_eZoqAwaoq]
+[uyAU9GDiDwJg#0] ^дюдутын/дю<n><sg><datloc><px3pl>/дю̄<n><sg><datloc><px3pl>$
+[/uyAU9GDiDwJg]
+[uyK_cBSJv5ZT#0] ^дюдувар/дю<n><sg><datloc><ref-pl>/дю̄<n><sg><datloc><ref-pl>$
+[/uyK_cBSJv5ZT]
+[v7RJKmBZTYH8#0] ^мо̄лгит/мо̄<n><pl><ela>$
+[/v7RJKmBZTYH8]
+[v7bGUw3zQVSn#0] ^дюклав/дю<n><sg><locdir><px1sg>/дю̄<n><sg><locdir><px1sg>$
+[/v7bGUw3zQVSn]
+[vKkXcdVjejI2#0] ^оронмосун/орон<n><sg><acc><def><px2pl>$
+[/vKkXcdVjejI2]
+[vPFVerKLNxjl#0] ^оронӈидисун/орон<n><sg><ela><px2pl>/орон<n><indposs><sg><ins><px2pl>/оронӈи<adj><sg><ins><px2pl>$
+[/vPFVerKLNxjl]
+[vT53MqBoiZW4#0] ^буртыки/бун<n><pl><all>/бур<n><sg><all>$
+[/vT53MqBoiZW4]
+[v_Xa-bgdImQT#0] ^ӈинакирнун/ӈинакин<n><pl><com-nun>$
+[/v_Xa-bgdImQT]
+[veQ-hO7eJGa1#0] ^ӈинакирикли/ӈинакин<n><pl><allprl>$
+[/veQ-hO7eJGa1]
+[w4GcyKJm5Qjs#0] ^дюклан/дю<n><sg><locdir><px3sg>/дю̄<n><sg><locdir><px3sg>$
+[/w4GcyKJm5Qjs]
+[wAoKp_dze-gz#0] ^ороннунми/орон<n><sg><com-nun><px1sg>/оро<n><indposs><sg><com-nun><px1sg>/орон<n><sg><com-nun><ref-sg>/оро<n><indposs><sg><com-nun><ref-sg>$
+[/wAoKp_dze-gz]
+[wFsLadfPy9C7#0] ^голо/голо<n><sg><nom>$
+[/wFsLadfPy9C7]
+[wbbhL8A7BvLm#0] ^голокли/голо<n><sg><allprl>$
+[/wbbhL8A7BvLm]
+[wmgSW1hAuCL4#0] ^муриртын/мурин<n><pl><nom><px3pl>$
+[/wmgSW1hAuCL4]
+[wnQyq7LNE9QP#0] ^оронин/орон<n><sg><nom><px3sg>/оро<n><indposs><sg><nom><px3sg>/оро<n><sg><nom>\<poss\><px3sg>$
+[/wnQyq7LNE9QP]
+[wu6kptjkg4p7#0] ^хутэллун/хутэ<n><pl><nom><px2pl>$
+[/wu6kptjkg4p7]
+[x3I8glekEhYW#0] ^хутэт/хутэ<n><sg><ins>/хутэ<n><sg><nom><px1pi>$
+[/x3I8glekEhYW]
+[x4c7N_IPpzgT#0] ^яӈтыки/яӈ<n><sg><all>$
+[/x4c7N_IPpzgT]
+[xXz44bVZe2z2#0] ^голонун/голо<n><sg><com-nun>$
+[/xXz44bVZe2z2]
+[xkQIGALdY_cR#0] ^дэттук/дэт<n><sg><abl>$
+[/xkQIGALdY_cR]
+[xnzdN587BRvO#0] ^илэлэ/илэ<n><pl><acc><ind>/илэ<n><sg><locall>$
+[/xnzdN587BRvO]
+[y3XnWFtSCuKl#0] ^орондукив/орон<n><sg><abl><px1sg>$
+[/y3XnWFtSCuKl]
+[y4R8IGFSQatF#0] ^орондулисун/орон<n><sg><prl><px2pl>$
+[/y4R8IGFSQatF]
+[y5fmoTo0jA_7#0] ^авунин/авун<n><sg><nom><px3sg>$
+[/y5fmoTo0jA_7]
+[yHvbl_dbeKX1#0] ^дэтыт/дэт<n><sg><ins>/дэт<n><sg><nom><px1pi>$
+[/yHvbl_dbeKX1]
+[ybKJRxb1IyDb#0] ^дював/дю<n><sg><acc><def><px1sg>/дю̄<n><sg><acc><def><px1sg>/дюва<n><sg><nom><px1sg>$
+[/ybKJRxb1IyDb]
+[ybcD9fGqi65H#0] ^гологит/голо<n><sg><ela>$
+[/ybcD9fGqi65H]
+[ylZl1b-ZAHJK#0] ^орондулави/орон<n><sg><locall><ref-sg>$
+[/ylZl1b-ZAHJK]
+[ytlW9AgsRUTy#0] ^оронтын/орон<n><sg><nom><px3pl>$
+[/ytlW9AgsRUTy]
+[yuXKUcqZdh-L#0] ^дютви/дю<n><sg><ins><ref-sg>/дю̄<n><sg><ins><ref-sg>$
+[/yuXKUcqZdh-L]
+[z16yxZYNJODI#0] ^дюклив/дю<n><sg><allprl><px1sg>/дю̄<n><sg><allprl><px1sg>$
+[/z16yxZYNJODI]
+[z3ko9TciLifo#0] ^дюгидит/дю<n><sg><ela><px1pi>/дю̄<n><sg><ela><px1pi>/дюгӣ<n><sg><ins><px1pi>$
+[/z3ko9TciLifo]
+[z_QAIohkEsdK#0] ^орондуксун/орон<n><sg><abl><px2pl>$
+[/z_QAIohkEsdK]
+[zidEbiAWWVW8#0] ^мо̄ли/*мо̄ли$
+[/zidEbiAWWVW8]
+[zipCt-Oc8ZEN#0] ^куримтыки/курим<n><sg><all>$
+[/zipCt-Oc8ZEN]
+[zuX9e2_lYuA6#0] ^илэдук/илэ<n><sg><abl>$
+[/zuX9e2_lYuA6]

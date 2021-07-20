@@ -1,0 +1,438 @@
+[-R4CdoSq2MH2#0] ^нуӈаннунин/нуӈан<prn><pers><p3><sg><com-nun><px3sg>$
+[/-R4CdoSq2MH2]
+[-wmhalpdPa6Y#0] ^синиклӣ/сӣ<prn><pers><p2><sg><allprl>$
+[/-wmhalpdPa6Y]
+[049I4C_x3C9U#0] ^тарилгит/тар<prn><dem><pl><ela>/та̄<v><p-sim><pl><ela>$
+[/049I4C_x3C9U]
+[09ebRwOl-3nb#0] ^тарилди/тар<prn><dem><pl><ins>/та̄<v><p-sim><pl><ins>$
+[/09ebRwOl-3nb]
+[0DBLL2ANnSfD#0] ^митӈитки/мит<prn><pers><p1><pi>\<poss\><sg><all>$
+[/0DBLL2ANnSfD]
+[0OljvWx1nPXC#0] ^минӈиду/бӣ<prn><pers><p1><sg>\<poss\><sg><datloc>$
+[/0OljvWx1nPXC]
+[0WbU3I8Vq4ei#0] ^нуӈанӈидун/нуӈан<prn><pers><p3><sg>\<poss\><sg><datloc><px3sg>$
+[/0WbU3I8Vq4ei]
+[0vINSbfL5Na_#0] ^нуӈарӈиватын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><acc><def><px3pl>$
+[/0vINSbfL5Na_]
+[1waolTWI7V02#0] ^митӈит/м<n><sg><ins>\<poss\><px1pi>/мит<prn><pers><p1><pi>\<poss\><sg><ins>$
+[/1waolTWI7V02]
+[2MgF4c3usY6t#0] ^тариликла/тар<prn><dem><pl><locdir>$
+[/2MgF4c3usY6t]
+[3OStuep0D_x_#0] ^нуӈанма̄н/нуӈан<prn><pers><p3><sg><acc><def><px3sg>$
+[/3OStuep0D_x_]
+[3YDFGfXe1APg#0] ^синӈи/сӣ<prn><pers><p2><sg>\<poss\><sg><nom>$
+[/3YDFGfXe1APg]
+[3hj3syUNcrk2#0] ^сӣ/сӣ<n><sg><nom>/сӣ<prn><pers><p2><sg><nom>$
+[/3hj3syUNcrk2]
+[43ojCxYNjA8A#0] ^нуӈарӈинунтын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><com-nun><px3pl>$
+[/43ojCxYNjA8A]
+[4JvLcbiTmyMX#0] ^мунӈивэ/мунӈи<adj><sg><acc><def>/бӯ<prn><pers><p1><pe>\<poss\><sg><acc><def>$
+[/4JvLcbiTmyMX]
+[4V-4cP34-Oo0#0] ^нуӈарӈигидитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><ela><px3pl>$
+[/4V-4cP34-Oo0]
+[4Wubp45DGPoY#0] ^мундулӣ/бӯ<prn><pers><p1><pe><prl>$
+[/4Wubp45DGPoY]
+[4XZM1pTKI373#0] ^тарикли/тар<prn><dem><sg><allprl>/та̄<v><p-sim><sg><allprl>$
+[/4XZM1pTKI373]
+[4vDLi0Hr8Wsx#0] ^тариликли/тар<prn><dem><pl><allprl>/та̄<v><p-sim><pl><allprl>$
+[/4vDLi0Hr8Wsx]
+[4yuuvdjPrhgv#0] ^нуӈарӈидутын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><datloc><px3pl>$
+[/4yuuvdjPrhgv]
+[58rGQjGsqCMO#0] ^тадук/тар<prn><dem><sg><abl>/тадук<adv>/та̄дук<conj>/та̄дук<adv>/тадӯк<adv>/та̄дӯк<adv>$
+[/58rGQjGsqCMO]
+[5G7ZclKP_SXt#0] ^митӈи/м<n><sg><ins>\<poss\>/мит<prn><pers><p1><pi>\<poss\><sg><nom>$
+[/5G7ZclKP_SXt]
+[5iE5fTVMZkGT#0] ^эрилгит/эр<prn><dem><pl><ela>/э<vaux-neg><p-sim><pl><ela>$
+[/5iE5fTVMZkGT]
+[5muhTqk8RagP#0] ^мит/м<n><sg><ins>/м<n><sg><nom><px1pi>/мит<prn><pers><p1><pi><nom>$
+[/5muhTqk8RagP]
+[6M_NWwoGfrAo#0] ^синӈиклэ/сӣ<prn><pers><p2><sg>\<poss\><sg><locdir>$
+[/6M_NWwoGfrAo]
+[6fYWFcg7HgZZ#0] ^нуӈанӈидукин/нуӈан<prn><pers><p3><sg>\<poss\><sg><abl><px3sg>$
+[/6fYWFcg7HgZZ]
+[7Fu466r0cHe-#0] ^нуӈанӈидин/нуӈан<prn><pers><p3><sg>\<poss\><sg><ins><px3sg>/нуӈан<prn><pers><p3><sg><ela><px3sg>$
+[/7Fu466r0cHe-]
+[87Cw2BchCDeu#0] ^нуӈарикла̄тын/нуӈартын<prn><pers><p3><pl><locdir><px3pl>$
+[/87Cw2BchCDeu]
+[8Z736SfH-F_v#0] ^тарилдули/тар<prn><dem><pl><prl>/та̄<v><p-sim><pl><prl>$
+[/8Z736SfH-F_v]
+[8zLRPU5m-ced#0] ^эриликлэ/эр<prn><dem><pl><locdir>/э<vaux-neg><p-sim><pl><locdir>$
+[/8zLRPU5m-ced]
+[98a0tQQmReDV#0] ^нуӈарӈилитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><prl><px3pl>$
+[/98a0tQQmReDV]
+[99FZBPoprAhL#0] ^нуӈанӈигидин/нуӈан<prn><pers><p3><sg>\<poss\><sg><ela><px3sg>$
+[/99FZBPoprAhL]
+[9RspUsrizr7h#0] ^бӣ/бӣ<ij>/бӣ<prn><pers><p1><sg><nom>$
+[/9RspUsrizr7h]
+[9apOpNVZHdIX#0] ^миндулэ̄/бӣ<prn><pers><p1><sg><locall>$
+[/9apOpNVZHdIX]
+[9fItR59i2T_J#0] ^мунӈидук/мунӈи<adj><sg><abl>/бӯ<prn><pers><p1><pe>\<poss\><sg><abl>$
+[/9fItR59i2T_J]
+[9u4S-fIamfxE#0] ^синӈит/сӣ<prn><pers><p2><sg><ela>/сӣ<prn><pers><p2><sg>\<poss\><sg><ins>$
+[/9u4S-fIamfxE]
+[9yr7LvraiybW#0] ^минӈидук/бӣ<prn><pers><p1><sg>\<poss\><sg><abl>$
+[/9yr7LvraiybW]
+[AVOk8LKrbRcq#0] ^тар/тар<adv>/тар<prn><dem><sg><nom>$
+[/AVOk8LKrbRcq]
+[AcXQXcRy2S4G#0] ^митвэ/мит<prn><pers><p1><pi><acc><def>$
+[/AcXQXcRy2S4G]
+[AqNfxzB93cFl#0] ^минэ/мӣ<v><mon-imp><p2><sg>/мин<v><p-neg>/бӣ<prn><pers><p1><sg><acc><def>/мин<v><nfut><p3><pl>/мӣ<v>\<conv-sim-ss\><sg>$
+[/AqNfxzB93cFl]
+[BEXVPpqLljHI#0] ^митыт/мит<prn><pers><p1><pi><ins>$
+[/BEXVPpqLljHI]
+[C2w2J4ARrbsM#0] ^синӈитки/сӣ<prn><pers><p2><sg>\<poss\><sg><all>$
+[/C2w2J4ARrbsM]
+[CFy0GCK-M4pC#0] ^нуӈанӈиян/*нуӈанӈиян$
+[/CFy0GCK-M4pC]
+[CFz-hxcnqsQg#0] ^эргит/эр<prn><dem><sg><ela>$
+[/CFz-hxcnqsQg]
+[CWF0lt-WGzi0#0] ^митӈилэ/мит<prn><pers><p1><pi>\<poss\><sg><locall>$
+[/CWF0lt-WGzi0]
+[Cb3Ei6mFsaW1#0] ^эрнун/эр<prn><dem><sg><com-nun>$
+[/Cb3Ei6mFsaW1]
+[CiGe8-PooyHs#0] ^нуӈарӈидитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><ins><px3pl>$
+[/CiGe8-PooyHs]
+[CjQUEOnHhi8B#0] ^синдулӣ/сӣ<prn><pers><p2><sg><prl>$
+[/CjQUEOnHhi8B]
+[CwgYvJnu77jc#0] ^сунтыкӣ/сун<n><sg><all>/сӯ<prn><pers><p2><pl><all>$
+[/CwgYvJnu77jc]
+[DMRg2vLebwQy#0] ^эрит/эр<prn><dem><sg><nom><px1pi>/э<vaux-neg><p-sim><sg><ins>/э<vaux-neg><p-sim><sg><nom><px1pi>/эр<prn><dem><sg><ins>$
+[/DMRg2vLebwQy]
+[Dfk6l5wJrI2Z#0] ^митӈиду/мит<prn><pers><p1><pi>\<poss\><sg><datloc>$
+[/Dfk6l5wJrI2Z]
+[DgYh4thpTGsJ#0] ^синэ/сӣ<prn><pers><p2><sg><acc><def>$
+[/DgYh4thpTGsJ]
+[Ei9qC82GQMuz#0] ^эрилдулэ/эр<prn><dem><pl><locall>/э<vaux-neg><p-sim><pl><locall>$
+[/Ei9qC82GQMuz]
+[EsjDYlk99JS9#0] ^нуӈанӈиклин/нуӈан<prn><pers><p3><sg>\<poss\><sg><allprl><px3sg>$
+[/EsjDYlk99JS9]
+[FTM68lJWsetN#0] ^нуӈанӈин/нуӈан<prn><pers><p3><sg>\<poss\><sg><nom><px3sg>$
+[/FTM68lJWsetN]
+[GN9mCJR68trz#0] ^эрэ/эрэ<adv>/эр<prn><dem><sg><acc><def>/эрэ̄<n><sg><nom>$
+[/GN9mCJR68trz]
+[Gf7uu41vA0uQ#0] ^нуӈандӯн/нуӈан<prn><pers><p3><sg><datloc><px3sg>$
+[/Gf7uu41vA0uQ]
+[Gu0GGYMn796h#0] ^миниклэ̄/бӣ<prn><pers><p1><sg><locdir>$
+[/Gu0GGYMn796h]
+[HDL_PO3biKml#0] ^нуӈарнунтын/нуӈартын<prn><pers><p3><pl><com-nun><px3pl>$
+[/HDL_PO3biKml]
+[HhRChzogWiXV#0] ^тали/тар<prn><dem><sg><prl>/та̄лӣ<adv>$
+[/HhRChzogWiXV]
+[HqRjUWgVFiZu#0] ^сунӈигит/сӯ<prn><pers><p2><pl>\<poss\><sg><ela>$
+[/HqRjUWgVFiZu]
+[IE-bniqDxUL3#0] ^минӈигит/бӣ<prn><pers><p1><sg>\<poss\><sg><ela>$
+[/IE-bniqDxUL3]
+[IyVvZJo_IpJ7#0] ^нуӈандин/нуӈан<prn><pers><p3><sg><ins><px3sg>$
+[/IyVvZJo_IpJ7]
+[J23-9KJdPxBm#0] ^сӯ/сӯ<prn><pers><p2><pl><nom>$
+[/J23-9KJdPxBm]
+[JIbv6EpqqkfI#0] ^синӈивэ/сӣ<prn><pers><p2><sg>\<poss\><sg><acc><def>$
+[/JIbv6EpqqkfI]
+[JUGg00dqOgru#0] ^миндук/бӣ<prn><pers><p1><sg><abl>$
+[/JUGg00dqOgru]
+[Jcf4vJaViAzV#0] ^сунӈиклэ/сӯ<prn><pers><p2><pl>\<poss\><sg><locdir>$
+[/Jcf4vJaViAzV]
+[KA4r4nVWt6BH#0] ^тартыки/тар<prn><dem><sg><all>$
+[/KA4r4nVWt6BH]
+[KDU6OLEYNON3#0] ^мундӯ/бӯ<prn><pers><p1><pe><datloc>$
+[/KDU6OLEYNON3]
+[KRobbXYSa3sd#0] ^тарилдула/тар<prn><dem><pl><locall>$
+[/KRobbXYSa3sd]
+[KazkqGdAR21M#0] ^тарикла/тар<prn><dem><sg><locdir>$
+[/KazkqGdAR21M]
+[Kdj7rPs3M9jx#0] ^нуӈарӈилатын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><locall><px3pl>$
+[/Kdj7rPs3M9jx]
+[KkEz8u1Lmf-W#0] ^эли/эр<prn><dem><sg><prl>$
+[/KkEz8u1Lmf-W]
+[KvwruImSwx1V#0] ^нуӈанӈилин/нуӈан<prn><pers><p3><sg>\<poss\><sg><prl><px3sg>/нуӈан<prn><pers><p3><sg>\<poss\><pl><nom><px3sg>$
+[/KvwruImSwx1V]
+[Lct2KLxLx3gr#0] ^мунӈиду/мунӈи<adj><sg><datloc>/бӯ<prn><pers><p1><pe>\<poss\><sg><datloc>$
+[/Lct2KLxLx3gr]
+[LnB8pkNNGcft#0] ^синӈие/сӣ<prn><pers><p2><sg>\<poss\><sg><acc><ind>$
+[/LnB8pkNNGcft]
+[LtSdB5mf3rf0#0] ^эду/э̄кун<prn><itg><sg><datloc>/эдӯ<adv>/эр<prn><dem><sg><datloc>$
+[/LtSdB5mf3rf0]
+[LzD_8l_g-DB3#0] ^нуӈарӈиклитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><allprl><px3pl>$
+[/LzD_8l_g-DB3]
+[M86tgXlJwN8X#0] ^тарит/тар<prn><dem><sg><nom><px1pi>/та̄<v><p-sim><sg><ins>/тар<prn><dem><sg><nom><px1pi>/та̄<v><p-sim><sg><nom><px1pi>/тарит<conj>/тарит<adv>/тар<prn><dem><sg><ins>$
+[/M86tgXlJwN8X]
+[M8PA1kP_W8K6#0] ^таду/таду<adv>/та̄ду<adv>/тар<prn><dem><sg><datloc>/тадӯ<adv>/та̄дӯ<adv>$
+[/M8PA1kP_W8K6]
+[MJwp7quU8xdO#0] ^сунӈикли/сӯ<prn><pers><p2><pl>\<poss\><sg><allprl>$
+[/MJwp7quU8xdO]
+[MpNyKtL3Epfm#0] ^элэ/элэ̄<adv>/эр<prn><dem><sg><locall>/элэ\<part\>$
+[/MpNyKtL3Epfm]
+[N6a0o2CB7cEj#0] ^нуӈардуктын/нуӈартын<prn><pers><p3><pl><abl><px3pl>$
+[/N6a0o2CB7cEj]
+[NBl35IrWQtVE#0] ^нуӈарватын/нуӈартын<prn><pers><p3><pl><acc><def><px3pl>$
+[/NBl35IrWQtVE]
+[NPguxn4kmgyY#0] ^миттӯ/мит<prn><pers><p1><pi><datloc>$
+[/NPguxn4kmgyY]
+[NR6jhDCck7dn#0] ^синӈигит/сӣ<prn><pers><p2><sg>\<poss\><sg><ela>$
+[/NR6jhDCck7dn]
+[NW7UIHILIG3U#0] ^митӈинун/*митӈинун$
+[/NW7UIHILIG3U]
+[Nfc6o6qfi8uR#0] ^тарилнун/тар<prn><dem><pl><com-nun>/та̄<v><p-sim><pl><com-nun>$
+[/Nfc6o6qfi8uR]
+[NrPBhrGSWvvB#0] ^минӈи/бӣ<prn><pers><p1><sg>\<poss\><sg><nom>$
+[/NrPBhrGSWvvB]
+[Nz_8tujy6u8_#0] ^муниклӣ/бӯ<prn><pers><p1><pe><allprl>/муӈи<n><sg><allprl>$
+[/Nz_8tujy6u8_]
+[ObfA4vaSJXHP#0] ^тарилдук/тар<prn><dem><pl><abl>/та̄<v><p-sim><pl><abl>$
+[/ObfA4vaSJXHP]
+[PEV1sECtEmFG#0] ^сундулӣ/сун<n><sg><prl>/сӯ<prn><pers><p2><pl><prl>$
+[/PEV1sECtEmFG]
+[PWpzs3nUmRbK#0] ^суниклӣ/сун<n><sg><allprl>/сӯ<prn><pers><p2><pl><allprl>/суӈи<n><sg><allprl>$
+[/PWpzs3nUmRbK]
+[PgV1I-Nz-qRG#0] ^минӈит/бӣ<prn><pers><p1><sg><ela>/бӣ<prn><pers><p1><sg>\<poss\><sg><ins>$
+[/PgV1I-Nz-qRG]
+[Q7y3xeP5IuTR#0] ^синиклэ̄/сӣ<prn><pers><p2><sg><locdir>$
+[/Q7y3xeP5IuTR]
+[QZ0cgROR_YC4#0] ^мунди/бӯ<prn><pers><p1><pe><ins>$
+[/QZ0cgROR_YC4]
+[QertRU2q1kQ-#0] ^тарил/тар<prn><dem><pl><nom>/та̄<v><p-sim><pl><nom>$
+[/QertRU2q1kQ-]
+[QgHc0bU2jBM5#0] ^мунӈиклэ/мунӈи<adj><sg><locdir>/бӯ<prn><pers><p1><pe>\<poss\><sg><locdir>$
+[/QgHc0bU2jBM5]
+[R1t884Oza0dS#0] ^мунтыкӣ/бӯ<prn><pers><p1><pe><all>$
+[/R1t884Oza0dS]
+[R7CqxgHY6www#0] ^мунӈигит/мунӈи<adj><sg><ela>/бӯ<prn><pers><p1><pe>\<poss\><sg><ela>$
+[/R7CqxgHY6www]
+[RHWQIM0QRYSB#0] ^синӈиду/сӣ<prn><pers><p2><sg>\<poss\><sg><datloc>$
+[/RHWQIM0QRYSB]
+[Rl12gung6R2V#0] ^мунӈинун/мунӈи<adj><sg><com-nun>$
+[/Rl12gung6R2V]
+[RsGPEXVH5ohj#0] ^мунӈитки/мунӈи<adj><sg><all>/бӯ<prn><pers><p1><pe>\<poss\><sg><all>$
+[/RsGPEXVH5ohj]
+[SY3yJRme9ADc#0] ^нуӈаникла̄н/нуӈан<prn><pers><p3><sg><locdir><px3sg>$
+[/SY3yJRme9ADc]
+[SmgxP6IyUVrP#0] ^миттыкӣ/мит<prn><pers><p1><pi><all>$
+[/SmgxP6IyUVrP]
+[SoI2lbV6nKlV#0] ^нуӈардула̄тын/нуӈартын<prn><pers><p3><pl><locall><px3pl>$
+[/SoI2lbV6nKlV]
+[SqPXNCKcdU9a#0] ^сунди/сун<n><sg><ins>/сӯ<prn><pers><p2><pl><ins>$
+[/SqPXNCKcdU9a]
+[SyfGidjHo8T1#0] ^митнун/мит<prn><pers><p1><pi><com-nun>$
+[/SyfGidjHo8T1]
+[TA3DtRGr8OMm#0] ^эртыки/эр<prn><dem><sg><all>$
+[/TA3DtRGr8OMm]
+[TMHg64IoXMwS#0] ^нуӈанӈиклан/нуӈан<prn><pers><p3><sg>\<poss\><sg><locdir><px3sg>$
+[/TMHg64IoXMwS]
+[U11EWTBX3xmp#0] ^миттыклӣ/мит<prn><pers><p1><pi><allprl>/мит<prn><pers><p1><pi><eqt-dyn><sg><sg><allprl>$
+[/U11EWTBX3xmp]
+[UcfQIFI-HjJd#0] ^минӈилэ/бӣ<prn><pers><p1><sg>\<poss\><sg><locall>$
+[/UcfQIFI-HjJd]
+[UjT6KvabLZgy#0] ^сунӈидук/сӯ<prn><pers><p2><pl>\<poss\><sg><abl>$
+[/UjT6KvabLZgy]
+[VXfCH4M6qXtU#0] ^нуӈанӈилан/нуӈан<prn><pers><p3><sg>\<poss\><sg><locall><px3sg>$
+[/VXfCH4M6qXtU]
+[W447XqWeHA-r#0] ^бӯ/бӯ<prn><pers><p1><pe><nom>$
+[/W447XqWeHA-r]
+[WG-CiedWSchq#0] ^митӈикли/мит<prn><pers><p1><pi>\<poss\><sg><allprl>$
+[/WG-CiedWSchq]
+[WPYgIVxzY7Pw#0] ^миндӯ/бӣ<prn><pers><p1><sg><datloc>$
+[/WPYgIVxzY7Pw]
+[WgbxeYyX18pk#0] ^сундулэ̄/сун<n><sg><locall>/сӯ<prn><pers><p2><pl><locall>$
+[/WgbxeYyX18pk]
+[XS8deVg4zjX3#0] ^эриликли/эр<prn><dem><pl><allprl>/э<vaux-neg><p-sim><pl><allprl>$
+[/XS8deVg4zjX3]
+[XV6Rcy0W4kjW#0] ^нуӈан/нуӈан<prn><pers><p3><sg><nom>$
+[/XV6Rcy0W4kjW]
+[XVM7ROUT6qkK#0] ^синӈинун/*синӈинун$
+[/XVM7ROUT6qkK]
+[XhovGfS21DSr#0] ^тарилва/тар<prn><dem><pl><acc><def>$
+[/XhovGfS21DSr]
+[Xy234zc6c6Vh#0] ^сунӈилэ/сӯ<prn><pers><p2><pl>\<poss\><sg><locall>$
+[/Xy234zc6c6Vh]
+[Xy_9xnMYacHv#0] ^эдук/э̄кун<prn><itg><sg><abl>/эр<prn><dem><sg><abl>/э̄дӯк<adv>$
+[/Xy_9xnMYacHv]
+[YAe5zN9xEtPv#0] ^сунӈит/сун<n><sg><ela>/сӯ<prn><pers><p2><pl><ela>/сун<n><indposs><sg><nom><px1pi>/сун<n><sg><nom>\<poss\><px1pi>/сӯ<prn><pers><p2><pl>\<poss\><sg><ins>$
+[/YAe5zN9xEtPv]
+[YYViW5pDBklU#0] ^миттулӣ/мит<prn><pers><p1><pi><prl>$
+[/YYViW5pDBklU]
+[ZHUlTxg-E8-X#0] ^эрилди/эр<prn><dem><pl><ins>/э<vaux-neg><p-sim><pl><ins>$
+[/ZHUlTxg-E8-X]
+[ZYx9FjenTQ8h#0] ^митӈидук/мит<prn><pers><p1><pi>\<poss\><sg><abl>$
+[/ZYx9FjenTQ8h]
+[Zhl9cWuAr2wh#0] ^минӈитки/бӣ<prn><pers><p1><sg>\<poss\><sg><all>$
+[/Zhl9cWuAr2wh]
+[ZjcNRbcUunds#0] ^минтыкӣ/бӣ<prn><pers><p1><sg><all>$
+[/ZjcNRbcUunds]
+[ZtKmyFG8k1Gd#0] ^мунӈилэ/мунӈи<adj><pl><acc><ind>/мунӈи<adj><sg><locall>/бӯ<prn><pers><p1><pe>\<poss\><sg><locall>$
+[/ZtKmyFG8k1Gd]
+[_DdMXc_KdVCp#0] ^митӈили/мит<prn><pers><p1><pi>\<poss\><sg><prl>$
+[/_DdMXc_KdVCp]
+[_TvCAWOxPPpW#0] ^синӈилэ/сӣ<prn><pers><p2><sg>\<poss\><sg><locall>$
+[/_TvCAWOxPPpW]
+[_d-aypVlbas_#0] ^минӈили/бӣ<prn><pers><p1><sg>\<poss\><sg><prl>$
+[/_d-aypVlbas_]
+[_lYx7TdOWqrH#0] ^нуӈаниклӣн/нуӈан<prn><pers><p3><sg><allprl><px3sg>$
+[/_lYx7TdOWqrH]
+[a9aSmO-FqvP-#0] ^сунӈиду/сӯ<prn><pers><p2><pl>\<poss\><sg><datloc>$
+[/a9aSmO-FqvP-]
+[aDXAwImwB_da#0] ^минӈикли/бӣ<prn><pers><p1><sg>\<poss\><sg><allprl>$
+[/aDXAwImwB_da]
+[aEXxd_MVl46n#0] ^миттыклэ̄/мит<prn><pers><p1><pi><locdir>/мит<prn><pers><p1><pi><eqt-dyn><sg><sg><locdir>$
+[/aEXxd_MVl46n]
+[aJ042xnqNaRJ#0] ^нуӈарӈиятын/*нуӈарӈиятын$
+[/aJ042xnqNaRJ]
+[aL_mR0r6EYMj#0] ^синнун/сӣ<prn><pers><p2><sg><com-nun>$
+[/aL_mR0r6EYMj]
+[aOWE6sP69TEH#0] ^нуӈарӈидуктын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><abl><px3pl>$
+[/aOWE6sP69TEH]
+[al0DI-tfZ89Y#0] ^эрилдук/эр<prn><dem><pl><abl>/э<vaux-neg><p-sim><pl><abl>$
+[/al0DI-tfZ89Y]
+[b2N8wRa1HGmG#0] ^сунӈитки/сӯ<prn><pers><p2><pl>\<poss\><sg><all>$
+[/b2N8wRa1HGmG]
+[b4woOYtAZEER#0] ^мунӈи/мунӈи<adj><sg><nom>/бӯ<prn><pers><p1><pe>\<poss\><sg><nom>$
+[/b4woOYtAZEER]
+[bCKz6YWqQdue#0] ^нуӈанӈинунин/нуӈан<prn><pers><p3><sg>\<poss\><sg><com-nun><px3sg>$
+[/bCKz6YWqQdue]
+[bQpAvXVRL104#0] ^синдулэ̄/сӣ<prn><pers><p2><sg><locall>$
+[/bQpAvXVRL104]
+[b_qws1DhXqdQ#0] ^нуӈардулӣтын/нуӈартын<prn><pers><p3><pl><prl><px3pl>$
+[/b_qws1DhXqdQ]
+[bnmLBjXweve6#0] ^нуӈана/*нуӈана$
+[/bnmLBjXweve6]
+[c52S86VQIup5#0] ^мунӈие/мунӈи<adj><sg><acc><ind>/бӯ<prn><pers><p1><pe>\<poss\><sg><acc><ind>$
+[/c52S86VQIup5]
+[cGNuK_e-hWPs#0] ^нуӈандукин/нуӈан<prn><pers><p3><sg><abl><px3sg>$
+[/cGNuK_e-hWPs]
+[cGghyUezp9D0#0] ^миттулэ̄/мит<prn><pers><p1><pi><locall>$
+[/cGghyUezp9D0]
+[cJcnAouaIppx#0] ^синдук/сӣ<prn><pers><p2><sg><abl>$
+[/cJcnAouaIppx]
+[cUDCfGABDBGd#0] ^нуӈарӈитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><nom><px3pl>$
+[/cUDCfGABDBGd]
+[cbe1zG0R0CIO#0] ^мунӈикли/мунӈи<adj><sg><allprl>/бӯ<prn><pers><p1><pe>\<poss\><sg><allprl>$
+[/cbe1zG0R0CIO]
+[cxlrkX-kv_c4#0] ^миндулӣ/бӣ<prn><pers><p1><sg><prl>$
+[/cxlrkX-kv_c4]
+[dChd6VdGA5Xh#0] ^тала/тала<adv>/тар<prn><dem><sg><locall>/тала̄<adv>/та̄ла̄<adv>/тала<np>\<top\><sg><nom>$
+[/dChd6VdGA5Xh]
+[dJPWMAb7VyGf#0] ^нуӈаръя/*нуӈаръя$
+[/dJPWMAb7VyGf]
+[dUX8LWIUC5Fv#0] ^сунӈие/сӯ<prn><pers><p2><pl>\<poss\><sg><acc><ind>$
+[/dUX8LWIUC5Fv]
+[dY7Tt8RSKwp9#0] ^мунэ/мун<v><p-neg>/бӯ<prn><pers><p1><pe><acc><def>/мун<v><nfut><p3><pl>/муӈэ<n><sg><nom>$
+[/dY7Tt8RSKwp9]
+[daPWjn6Jl3-I#0] ^нуӈардӯтын/нуӈартын<prn><pers><p3><pl><datloc><px3pl>$
+[/daPWjn6Jl3-I]
+[dtCiI3P40lUG#0] ^митӈиклэ/мит<prn><pers><p1><pi>\<poss\><sg><locdir>$
+[/dtCiI3P40lUG]
+[dvMYGVMmoT7F#0] ^эр/эр<prn><dem><sg><nom>$
+[/dvMYGVMmoT7F]
+[eJNOxegpZIwu#0] ^нуӈардитын/нуӈартын<prn><pers><p3><pl><ins><px3pl>$
+[/eJNOxegpZIwu]
+[eL0Wnl4OZzoN#0] ^тарилду/тар<prn><dem><pl><datloc>/та̄<v><p-sim><pl><datloc>$
+[/eL0Wnl4OZzoN]
+[ePX4Os4XiKgr#0] ^нуӈандула̄н/нуӈан<prn><pers><p3><sg><locall><px3sg>$
+[/ePX4Os4XiKgr]
+[eq_ttBMCHb6o#0] ^синтыкӣ/сӣ<prn><pers><p2><sg><all>$
+[/eq_ttBMCHb6o]
+[evIFKfUd1vL8#0] ^нуӈарӈиклатын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><locdir><px3pl>$
+[/evIFKfUd1vL8]
+[gE7QgR1SNk-T#0] ^эрилду/эр<prn><dem><pl><datloc>/э<vaux-neg><p-sim><pl><datloc>$
+[/gE7QgR1SNk-T]
+[gPRy20gAMgDE#0] ^нуӈарӈиткитын/нуӈартын<prn><pers><p3><pl>\<poss\><sg><all><px3pl>$
+[/gPRy20gAMgDE]
+[gRNbU_ohGqYC#0] ^тарнун/тар<prn><dem><sg><com-nun>$
+[/gRNbU_ohGqYC]
+[gmG0L6m44VDy#0] ^митӈивэ/мит<prn><pers><p1><pi>\<poss\><sg><acc><def>$
+[/gmG0L6m44VDy]
+[h51FvwDpMHF3#0] ^сунӈили/сӯ<prn><pers><p2><pl>\<poss\><sg><prl>$
+[/h51FvwDpMHF3]
+[hfK_NziSImxy#0] ^миниклӣ/бӣ<prn><pers><p1><sg><allprl>$
+[/hfK_NziSImxy]
+[hg0ydsemCzMw#0] ^эрилвэ/эр<prn><dem><pl><acc><def>/э<vaux-neg><p-sim><pl><acc><def>$
+[/hg0ydsemCzMw]
+[hmUXdhxohMpo#0] ^муннун/бӯ<prn><pers><p1><pe><com-nun>$
+[/hmUXdhxohMpo]
+[iMYHpneIosQw#0] ^эрил/эр<prn><dem><pl><nom>/э<vaux-neg><p-sim><pl><nom>$
+[/iMYHpneIosQw]
+[ijLDRvzi2laF#0] ^минӈинун/*минӈинун$
+[/ijLDRvzi2laF]
+[jJ3clOOUY7va#0] ^сундук/сун<n><sg><abl>/сӯ<prn><pers><p2><pl><abl>/сундук<n><sg><nom>$
+[/jJ3clOOUY7va]
+[jb3ieh3YSYxH#0] ^митӈие/мит<prn><pers><p1><pi>\<poss\><sg><acc><ind>$
+[/jb3ieh3YSYxH]
+[k14Z0dtGcWJ6#0] ^тарилтыки/тар<prn><dem><pl><all>/та̄<v><p-sim><pl><all>$
+[/k14Z0dtGcWJ6]
+[kbJQsHxZa1Th#0] ^синӈидук/сӣ<prn><pers><p2><sg>\<poss\><sg><abl>$
+[/kbJQsHxZa1Th]
+[lEmOGcXDj92W#0] ^нуӈанӈиткин/нуӈан<prn><pers><p3><sg>\<poss\><sg><all><px3sg>$
+[/lEmOGcXDj92W]
+[lOU9Y2G3qgC1#0] ^митӈигит/мит<prn><pers><p1><pi>\<poss\><sg><ela>$
+[/lOU9Y2G3qgC1]
+[lQRJ8UuNA247#0] ^сундӯ/сун<n><sg><datloc>/сӯ<prn><pers><p2><pl><datloc>$
+[/lQRJ8UuNA247]
+[lUp4hE3j-_Pd#0] ^минди/бӣ<prn><pers><p1><sg><ins>$
+[/lUp4hE3j-_Pd]
+[lbWMNzPS00IJ#0] ^нуӈандулӣн/нуӈан<prn><pers><p3><sg><prl><px3sg>$
+[/lbWMNzPS00IJ]
+[ltVu9G9gjOwr#0] ^миттук/мит<prn><pers><p1><pi><abl>$
+[/ltVu9G9gjOwr]
+[lz42e9BTmu8f#0] ^минӈие/бӣ<prn><pers><p1><sg>\<poss\><sg><acc><ind>$
+[/lz42e9BTmu8f]
+[m-C1YUv_rQfS#0] ^синди/сӣ<prn><pers><p2><sg><ins>$
+[/m-C1YUv_rQfS]
+[mbA_zWfvg6nH#0] ^нуӈаттыкӣн/нуӈан<prn><pers><p3><sg><all><px3sg>/ну<v><p-purp><sg><all><px3sg>$
+[/mbA_zWfvg6nH]
+[n096tej64OYZ#0] ^эрилтыки/эр<prn><dem><pl><all>/э<vaux-neg><p-sim><pl><all>$
+[/n096tej64OYZ]
+[nf661RLsr9qR#0] ^синӈикли/сӣ<prn><pers><p2><sg>\<poss\><sg><allprl>$
+[/nf661RLsr9qR]
+[npJK7XrwMJpw#0] ^сунӈивэ/сӯ<prn><pers><p2><pl>\<poss\><sg><acc><def>$
+[/npJK7XrwMJpw]
+[nsjPG9x6Nzmn#0] ^нуӈартын/нуӈартын<prn><pers><p3><pl><nom><px3pl>$
+[/nsjPG9x6Nzmn]
+[oGndu6Qo0DmV#0] ^синӈили/сӣ<prn><pers><p2><sg>\<poss\><sg><prl>$
+[/oGndu6Qo0DmV]
+[ohZJIsXHF2zz#0] ^миткит/мит<prn><pers><p1><pi><ela>$
+[/ohZJIsXHF2zz]
+[qYDfeSWugH1Q#0] ^эрикли/эр<prn><dem><sg><allprl>/э<vaux-neg><p-sim><sg><allprl>$
+[/qYDfeSWugH1Q]
+[qkXtH_DS91dL#0] ^эриклэ/эр<prn><dem><sg><locdir>/э<vaux-neg><p-sim><sg><locdir>$
+[/qkXtH_DS91dL]
+[s9NbYLTAytJz#0] ^суннун/сун<n><sg><com-nun>/сун<n><sg><nom><px2pl>/сӯ<prn><pers><p2><pl><com-nun>$
+[/s9NbYLTAytJz]
+[sE3O4epPPSlB#0] ^эрилдули/эр<prn><dem><pl><prl>/э<vaux-neg><p-sim><pl><prl>$
+[/sE3O4epPPSlB]
+[sFltjKZBwwo4#0] ^сунэ/сун<n><sg><acc><ind>/сӯ<prn><pers><p2><pl><acc><def>$
+[/sFltjKZBwwo4]
+[snXBLDn4iGxJ#0] ^миннун/бӣ<prn><pers><p1><sg><com-nun>$
+[/snXBLDn4iGxJ]
+[t-8yPxdyizoX#0] ^мундук/бӯ<prn><pers><p1><pe><abl>$
+[/t-8yPxdyizoX]
+[tJa_R7FAcVdZ#0] ^сунӈинун/*сунӈинун$
+[/tJa_R7FAcVdZ]
+[tmluDOeAePWe#0] ^суниклэ̄/сун<n><sg><locdir>/сӯ<prn><pers><p2><pl><locdir>$
+[/tmluDOeAePWe]
+[u2bsOjJGAQFG#0] ^мундулэ̄/бӯ<prn><pers><p1><pe><locall>$
+[/u2bsOjJGAQFG]
+[v7YtymFMy3-l#0] ^нуӈартыкӣтын/нуӈартын<prn><pers><p3><pl><all><px3pl>$
+[/v7YtymFMy3-l]
+[v7aqdL17-iKR#0] ^митъе/*митъе$
+[/v7aqdL17-iKR]
+[v860_tuWHh6K#0] ^мунӈит/бӯ<prn><pers><p1><pe><ela>/мунӈи<adj><sg><ins>/мунӈи<adj><sg><nom><px1pi>/бӯ<prn><pers><p1><pe>\<poss\><sg><ins>/мунӈи<adj>\<advz-t\>$
+[/v860_tuWHh6K]
+[vwqeVyh0taBm#0] ^синдӯ/сӣ<prn><pers><p2><sg><datloc>$
+[/vwqeVyh0taBm]
+[w3_pEkbfHab6#0] ^муниклэ̄/бӯ<prn><pers><p1><pe><locdir>/муӈи<n><sg><locdir>$
+[/w3_pEkbfHab6]
+[whBCT2eNzvLk#0] ^минӈивэ/бӣ<prn><pers><p1><sg>\<poss\><sg><acc><def>$
+[/whBCT2eNzvLk]
+[xZqOQIt2Yxx6#0] ^минӈиклэ/бӣ<prn><pers><p1><sg>\<poss\><sg><locdir>$
+[/xZqOQIt2Yxx6]
+[xe2cUV90KyzH#0] ^мунӈили/мунӈи<adj><sg><prl>/бӯ<prn><pers><p1><pe>\<poss\><sg><prl>$
+[/xe2cUV90KyzH]
+[yHpp3LXe80NT#0] ^таргит/тар<prn><dem><sg><ela>/таргит<adv>$
+[/yHpp3LXe80NT]
+[ydKy1G2P5ZNp#0] ^эрилнун/эр<prn><dem><pl><com-nun>/э<vaux-neg><p-sim><pl><com-nun>$
+[/ydKy1G2P5ZNp]
+[yvHOcqLT1Ao-#0] ^нуӈариклӣтын/нуӈартын<prn><pers><p3><pl><allprl><px3pl>$
+[/yvHOcqLT1Ao-]
+[zpF3PGd0_Rvr#0] ^тара/тар<prn><dem><sg><acc><def>$
+[/zpF3PGd0_Rvr]
+[zrTTYp_-_v9B#0] ^нуӈанӈиван/нуӈан<prn><pers><p3><sg>\<poss\><sg><acc><def><px3sg>$
+[/zrTTYp_-_v9B]

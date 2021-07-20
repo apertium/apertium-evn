@@ -1,0 +1,42 @@
+{
+  "adj": {
+    "input": "adj-input.txt",
+    "mode": "evn-morph"
+  },
+  "adj-gen": {
+    "input": "adj-gen-input.txt",
+    "mode": "evn-gener"
+  },
+  "nouns": {
+    "input": "nouns-input.txt",
+    "mode": "evn-morph"
+  },
+  "nouns-gen": {
+    "input": "nouns-gen-input.txt",
+    "mode": "evn-gener"
+  },
+  "pron": {
+    "input": "pron-input.txt",
+    "mode": "evn-morph"
+  },
+  "pron-gen": {
+    "input": "pron-gen-input.txt",
+    "mode": "evn-gener"
+  },
+  "test_vowel_harmony": {
+    "input": "test_vowel_harmony-input.txt",
+    "mode": "evn-morph"
+  },
+  "test_vowel_harmony-gen": {
+    "input": "test_vowel_harmony-gen-input.txt",
+    "mode": "evn-gener"
+  },
+  "verbs": {
+    "input": "verbs-input.txt",
+    "mode": "evn-morph"
+  },
+  "verbs-gen": {
+    "input": "verbs-gen-input.txt",
+    "mode": "evn-gener"
+  }
+}

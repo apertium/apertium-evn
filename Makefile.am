@@ -2,13 +2,11 @@
 ## Makefile for apertium-evn
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=evn
 BASENAME=apertium-$(LANG1)
 
 TARGETS_COMMON = $(LANG1).automorf.hfst $(LANG1).autogen.hfst \
-	$(LANG1).automorf.bin $(LANG1).autopgen.bin \
+	$(LANG1).automorf.bin $(LANG1).autogen.bin $(LANG1).autopgen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
 		$(LANG1).rlx.bin
 
@@ -144,7 +142,9 @@ if HAVE_HFSTOSPELL
 EXTRA_TARGETS += $(LANG1).zhfst
 endif # HAVE_HFSTOSPELL
 
-apertium_evn_DATA=$(TARGETS_COMMON) $(EXTRA_TARGETS) $(LANG1).prob
+apertium_evn_DATA=$(TARGETS_COMMON) $(EXTRA_TARGETS) $(LANG1).prob \
+					$(BASENAME).$(LANG1).lexc $(BASENAME).$(LANG1).twol \
+					$(BASENAME).$(LANG1).rlx $(BASENAME).post-$(LANG1).dix
 
 pkgconfigdir = $(prefix)/share/pkgconfig
 pkgconfig_DATA = $(BASENAME).pc
@@ -152,11 +152,7 @@ pkgconfig_DATA = $(BASENAME).pc
 noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local: install-modes
-	test -d $(DESTDIR)$(apertium_evn_srcdir) || mkdir -p $(DESTDIR)$(apertium_evn_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).lexc $(DESTDIR)$(apertium_evn_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).twol $(DESTDIR)$(apertium_evn_srcdir)
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_evn_srcdir)
-	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_evn_srcdir)
+uninstall-local: uninstall-modes
 
 ###############################################################################
 ## Cleanup
@@ -171,8 +167,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "TODO test sentence" | apertium -d . evn-morph | tee .test-mt
-	@echo "TODO test analysis results" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
-
+	apertium-regtest test
